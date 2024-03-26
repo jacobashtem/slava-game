@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Bulgariamoderna";
+  src:
+    local("Bulgariamoderna"),
+    url("/assets/fonts/Bulgariamodernav3-00R9.otf") format("truetype");
+}
+
+.bulgariamoderna {
+  font-family: "Bulgariamoderna";
+}
