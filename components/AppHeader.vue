@@ -7,10 +7,7 @@
       :class="isScrolled ? 'text-black' : 'text-white'"
       class="container mx-auto flex justify-between items-center"
     >
-      <nuxt-link
-        to="/"
-        class="font-bold hover:text-customPrimary-500"
-      >
+      <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
         <h1
           class="flex flex-col text-center text-6xl font-bold bulgariamoderna"
         >
@@ -20,10 +17,7 @@
       <nav>
         <ul class="flex space-x-4">
           <li>
-            <nuxt-link
-              to="/"
-              class="font-bold hover:text-customPrimary-500"
-            >
+            <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
               Home
             </nuxt-link>
           </li>

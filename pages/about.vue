@@ -1,38 +1,27 @@
 <template>
   <div class="flex flex-col items-center justify-center min-h-screen">
-    <h1 class="text-3xl font-bold mb-4">
-      Contact Us
-    </h1>
+    <h1 class="text-3xl font-bold mb-4">Contact Us</h1>
     <form class="w-1/2">
       <div class="mb-4">
-        <label
-          for="name"
-          class="block font-medium"
-        >Name:</label>
+        <label for="name" class="block font-medium">Name:</label>
         <input
           id="name"
           v-model="name"
           type="text"
           class="w-full border border-gray-300 rounded px-3 py-2"
-        >
+        />
       </div>
       <div class="mb-4">
-        <label
-          for="email"
-          class="block font-medium"
-        >Email:</label>
+        <label for="email" class="block font-medium">Email:</label>
         <input
           id="email"
           v-model="email"
           type="email"
           class="w-full border border-gray-300 rounded px-3 py-2"
-        >
+        />
       </div>
       <div class="mb-4">
-        <label
-          for="message"
-          class="block font-medium"
-        >Message:</label>
+        <label for="message" class="block font-medium">Message:</label>
         <textarea
           id="message"
           v-model="message"
