@@ -14,6 +14,7 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@zadigetvoltaire/nuxt-gtm",
   ],
+  plugins: ["~/plugins/iconify.ts"],
   gtm: {
     id: "GTM-TSW84BGD",
     queryParams: {
