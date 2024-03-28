@@ -13,7 +13,7 @@
           type="email"
           class="py-2 px-4 mr-2 w-full md:w-72 border-b-customPrimary-500 border-solid border-b focus:outline-none focus:border-b-none focus:border-t focus:border-t-customPrimary-500"
           placeholder="Wpisz swój email"
-        >
+        />
         <button
           type="submit"
           class="bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
