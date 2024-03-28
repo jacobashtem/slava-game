@@ -1,7 +1,9 @@
 <template>
-  <footer class="bg-white -900 text-black py-4">
-    <div class="container mx-auto flex justify-between items-center">
-      <div>
+  <footer class="bg-white -900 text-black py-4 px-8">
+    <div
+      class="container flex-col sm:flex-row mx-auto flex justify-between items-center"
+    >
+      <div class="mb-4 sm:mb-0">
         <h1 class="text-lg font-bold">SLAVA CARD GAME</h1>
         <p class="text-sm">© 2024 All rights reserved</p>
       </div>

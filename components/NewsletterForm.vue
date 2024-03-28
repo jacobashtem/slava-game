@@ -1,22 +1,22 @@
 <template>
   <div class="max-w-xl">
-    <div class="bg-white rounded-lg p-8 shadow-md">
-      <h2 class="text-2xl font-semibold mb-6">
+    <div class="md:mt-9">
+      <h2 class="text-xl md:text-2xl text-left font-thin text-white">
         Nie chcesz przegapić premiery? Zapisz się na listę oczekujących!
       </h2>
       <form
-        class="shadow-lg p-6 bg-white justify-between mt-8 max-w-lg flex items-center"
+        class="flex-col text-left md:flex-row py-6 items-start md:items-center justify-between mt-2 max-w-lg flex"
         @submit.prevent="submitForm"
       >
         <input
           v-model="email"
           type="email"
-          class="py-2 px-4 mr-2 w-full md:w-72 border-b-customPrimary-500 border-solid border-b focus:outline-none focus:border-b-none focus:border-t focus:border-t-customPrimary-500"
+          class="rounded-3xl mb-3 md:mb-0 py-2 px-4 w-full md:w-96 border-b-customPrimary-500 border-solid border-b focus:outline-none focus:border-b-none focus:border-t focus:border-t-customPrimary-500"
           placeholder="Wpisz swój email"
         />
         <button
           type="submit"
-          class="bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+          class="bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-3xl focus:outline-none focus:ring-2 focus:customPrimary-500"
         >
           Zapisz się
         </button>

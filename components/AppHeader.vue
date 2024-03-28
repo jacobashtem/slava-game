@@ -1,20 +1,21 @@
 <template>
   <header
-    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300"
+    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 px-8"
     :class="{ 'bg-white': isScrolled }"
   >
     <div
       :class="isScrolled ? 'text-black' : 'text-white'"
       class="container mx-auto flex justify-between items-center"
     >
-      <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
+      <nuxt-link to="/" class="font-bold">
         <h1
           class="flex flex-col text-center text-6xl font-bold bulgariamoderna"
         >
           SLAVA!<span class="text-sm">THE CARD GAME</span>
         </h1>
       </nuxt-link>
-      <nav>
+      <MobileMenu v-if="isMobile" :is-scrolled="isScrolled" />
+      <nav v-else>
         <ul class="flex space-x-4">
           <li>
             <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
@@ -42,7 +43,7 @@
               to="/contact"
               class="font-bold hover:text-customPrimary-500"
             >
-              Bestiariusz
+              Bestiariusz <span class="icon-[quill--hamburger]"></span>
             </nuxt-link>
           </li>
         </ul>
@@ -52,6 +53,8 @@
 </template>
 
 <script setup>
+import { useMediaQuery } from "@vueuse/core";
+const isMobile = useMediaQuery("(max-width: 640px)");
 const { y } = useWindowScroll();
 const isScrolled = computed(() => y.value > 0);
 </script>
