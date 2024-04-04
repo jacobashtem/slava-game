@@ -11,14 +11,16 @@
       >
         <ul class="text-center">
           <li class="py-2 border-b-black border-solid border-b">
-            <nuxt-link to="/" class="font-bold"> Home </nuxt-link>
+            <nuxt-link to="/" class="font-bold">
+              {{ $t("menu._1") }}
+            </nuxt-link>
           </li>
           <li class="py-2 border-b-black border-solid border-b">
             <nuxt-link
               to="/about"
               class="font-bold hover:text-customPrimary-500"
             >
-              O Grze
+              {{ $t("menu._2") }}
             </nuxt-link>
           </li>
           <li class="py-2 border-b-black border-solid border-b">
@@ -26,7 +28,7 @@
               to="/contact"
               class="font-bold hover:text-customPrimary-500"
             >
-              Blog
+              {{ $t("menu._3") }}
             </nuxt-link>
           </li>
           <li class="py-2 border-b-customPrimary-500 border-solid border-b">
@@ -34,7 +36,7 @@
               to="/contact"
               class="font-bold hover:text-customPrimary-500"
             >
-              Bestiariusz <span class="icon-[quill--hamburger]"></span>
+              {{ $t("menu._4") }} <span class="icon-[quill--hamburger]"></span>
             </nuxt-link>
           </li>
         </ul>

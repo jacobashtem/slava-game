@@ -1,0 +1,14 @@
+{
+    "menu": {
+        "_1": "Home",
+        "_2": "O Grze",
+        "_3": "Blog",
+        "_4": "Bestiariusz"
+    },
+    "hero": {
+        "h1": "Zanurz się w świat mitologii słowian!",
+        "h2": "Nie chcesz przegapić premiery? Zapisz się na listę oczekujących!",
+        "email_placeholder": "Wpisz swój email",
+        "button": "Zapisz się" 
+    }
+}

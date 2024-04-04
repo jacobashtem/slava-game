@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "_1": "Home",
+        "_2": "About game",
+        "_3": "Blog",
+        "_4": "Bestiary"
+
+    },
+    "hero": {
+        "h1": "Immerse yourself in the world of Slavic mythology!",
+        "h2": "Don't want to miss the premiere? Sign up for the waiting list!",
+        "email_placeholder": "Enter your email",
+        "button": "Sign up" 
+    }
+}

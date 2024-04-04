@@ -2,7 +2,7 @@
   <div class="max-w-xl">
     <div class="md:mt-9">
       <h2 class="text-xl md:text-2xl text-left font-thin text-white">
-        Nie chcesz przegapić premiery? Zapisz się na listę oczekujących!
+        {{ $t("hero.h2") }}
       </h2>
       <form
         class="flex-col text-left md:flex-row py-6 items-start md:items-center justify-between mt-2 max-w-lg flex"
@@ -12,13 +12,13 @@
           v-model="email"
           type="email"
           class="rounded-3xl mb-3 md:mb-0 py-2 px-4 w-full md:w-96 border-b-customPrimary-500 border-solid border-b focus:outline-none focus:border-b-none focus:border-t focus:border-t-customPrimary-500"
-          placeholder="Wpisz swój email"
+          :placeholder="$t('hero.email_placeholder')"
         />
         <button
           type="submit"
-          class="bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-3xl focus:outline-none focus:ring-2 focus:customPrimary-500"
+          class="ml-2 bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-3xl focus:outline-none focus:ring-2 focus:customPrimary-500"
         >
-          Zapisz się
+          {{ $t("hero.button") }}
         </button>
       </form>
     </div>
@@ -26,11 +26,8 @@
 </template>
 
 <script setup>
-const isFocused = ref(false);
 const email = ref("");
 const submitForm = () => {
-  // Handle subscription logic here
-  // You can use the email variable to access the email value
   email.value = "";
 };
 </script>

@@ -15,11 +15,11 @@
         </h1>
       </nuxt-link>
       <MobileMenu v-if="isMobile" :is-scrolled="isScrolled" />
-      <nav v-else>
+      <nav v-else class="relative">
         <ul class="flex space-x-4">
           <li>
             <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
-              Home
+              {{ $t("menu._1") }}
             </nuxt-link>
           </li>
           <li>
@@ -27,7 +27,7 @@
               to="/about"
               class="font-bold hover:text-customPrimary-500"
             >
-              O Grze
+              {{ $t("menu._2") }}
             </nuxt-link>
           </li>
           <li>
@@ -35,7 +35,7 @@
               to="/contact"
               class="font-bold hover:text-customPrimary-500"
             >
-              Blog
+              {{ $t("menu._3") }}
             </nuxt-link>
           </li>
           <li>
@@ -43,10 +43,11 @@
               to="/contact"
               class="font-bold hover:text-customPrimary-500"
             >
-              Bestiariusz <span class="icon-[quill--hamburger]"></span>
+              {{ $t("menu._4") }} <span class="icon-[quill--hamburger]"></span>
             </nuxt-link>
           </li>
         </ul>
+        <LanguageSwitcher />
       </nav>
     </div>
   </header>

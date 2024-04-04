@@ -8,7 +8,7 @@
         <h1
           class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"
         >
-          Zanurz się w świat mitologii słowian!
+          {{ $t("hero.h1") }}
         </h1>
         <!-- <p class="text-lg md:text-xl text-white mt-4"> -->
         <!-- Zanurz się w świat mitologii słowian!
