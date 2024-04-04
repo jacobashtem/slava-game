@@ -15,8 +15,8 @@
         </h1>
       </nuxt-link>
       <MobileMenu v-if="isMobile" :is-scrolled="isScrolled" />
-      <nav v-else class="relative">
-        <ul class="flex space-x-4">
+      <nav v-else class="relative flex items-center">
+        <ul class="flex space-x-4 mr-4">
           <li>
             <nuxt-link to="/" class="font-bold hover:text-customPrimary-500">
               {{ $t("menu._1") }}

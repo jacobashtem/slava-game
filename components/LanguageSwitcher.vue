@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute flex right-0">
+  <div class="flex right-0">
     <NuxtLink :to="switchLocalePath('pl')"
       ><Icon class="mr-3" icon="emojione-v1:flag-for-poland"
     /></NuxtLink>

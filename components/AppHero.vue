@@ -5,11 +5,11 @@
   >
     <div class="flex container mx-auto">
       <div class="text-center">
-        <h1
+        <h2
           class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"
         >
-          {{ $t("hero.h1") }}
-        </h1>
+          {{ $t("hero.title") }}
+        </h2>
         <!-- <p class="text-lg md:text-xl text-white mt-4"> -->
         <!-- Zanurz się w świat mitologii słowian!
 

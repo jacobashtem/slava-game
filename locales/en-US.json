@@ -7,8 +7,8 @@
 
     },
     "hero": {
-        "h1": "Immerse yourself in the world of Slavic mythology!",
-        "h2": "Don't want to miss the premiere? Sign up for the waiting list!",
+        "title": "Immerse yourself in the world of Slavic mythology!",
+        "subtitle": "Don't want to miss the premiere? Sign up for the waiting list!",
         "email_placeholder": "Enter your email",
         "button": "Sign up" 
     }
