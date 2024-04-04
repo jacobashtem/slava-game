@@ -2,7 +2,7 @@
   <div class="max-w-xl">
     <div class="md:mt-9">
       <h2 class="text-xl md:text-2xl text-left font-thin text-white">
-        {{ $t("hero.h2") }}
+        {{ $t("hero.subtitle") }}
       </h2>
       <form
         class="flex-col text-left md:flex-row py-6 items-start md:items-center justify-between mt-2 max-w-lg flex"

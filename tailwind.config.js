@@ -16,6 +16,10 @@ module.exports = {
           900: "#4D1B02",
         },
       },
+      screens: {
+        'xs': '480px',
+        'xxs': '320px'
+      }
     },
   },
 };
