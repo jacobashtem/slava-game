@@ -13,7 +13,26 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@vueuse/nuxt",
     "@zadigetvoltaire/nuxt-gtm",
+    "@nuxtjs/i18n",
   ],
+  i18n: {
+    locales: [
+      { code: "pl", iso: "pl-PL", file: "pl-PL.json" },
+      {
+        code: "en",
+        iso: "en-US",
+        file: "en-US.json",
+      },
+      {
+        code: "uk",
+        iso: "uk-UA",
+        file: "uk-UA.json",
+      },
+    ],
+    defaultLocale: "pl",
+    langDir: "locales/",
+  },
+
   plugins: ["~/plugins/iconify.ts"],
   gtm: {
     id: "GTM-TSW84BGD",
