@@ -1,6 +1,6 @@
 <template>
   <header
-    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 px-8"
+    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 px-8 z-10"
     :class="{ 'bg-white': isScrolled }"
   >
     <div
