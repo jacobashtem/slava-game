@@ -10,5 +10,9 @@
         "subtitle": "Nie chcesz przegapić premiery? Zapisz się na listę oczekujących!",
         "email_placeholder": "Wpisz swój email",
         "button": "Zapisz się" 
+    },
+    "blog": {
+        "title": "Najnowsze wpisy",
+        "readMore": "Czytaj więcej"
     }
 }

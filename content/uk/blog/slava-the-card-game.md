@@ -1,10 +1,21 @@
 ---
-title: The first post polish
-short: This is the first blog post
-tags:
-  - content
-  - i18n
-  - markdown
+title: Ласкаво просимо до нашого блогу!
+description: СЛАВА! всім любителям карткових ігор і шанувальникам слов'янської міфології!
+image:
+    src: /img/blog/first-post.webp
+    alt: Зображення вітального допису.
+head:
+  meta:
+    - name: keywords
+      content: slavic card game, slavic mythology
+    - name: robots
+      content: index, follow
+    - name: author
+      content: Jacob Ashtem
+    - name: copyright
+      content: © 2024 Jacob Ashtem
+    - name: og:title
+      content: This is an OG title
 ---
 # Ласкаво просимо до нашого блогу!
 

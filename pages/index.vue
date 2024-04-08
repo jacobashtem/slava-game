@@ -1,6 +1,7 @@
 <template>
   <article>
     <AppHero />
+    <LatestBlogposts />
   </article>
 </template>
 

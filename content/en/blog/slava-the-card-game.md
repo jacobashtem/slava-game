@@ -1,11 +1,21 @@
 ---
 title: Welcome to our blog!
-description: This is the first blog post
-image: /img/blog/first-post.webp
-tags:
-  - content
-  - i18n
-  - markdown
+description: FAME! to all lovers of card games and fans of Slavic mythology!
+image:
+    src: /img/blog/first-post.webp
+    alt: Welcome post image.
+head:
+  meta:
+    - name: keywords
+      content: slavic card game, slavic mythology
+    - name: robots
+      content: index, follow
+    - name: author
+      content: Jacob Ashtem
+    - name: copyright
+      content: © 2024 Jacob Ashtem
+    - name: og:title
+      content: This is an OG title
 ---
 
 # Welcome to our blog!
@@ -20,7 +30,7 @@ Slavic mythology is a rich source of legends, myths and stories that reflect the
 
 ## Demons and Gods
 
-In Slavic mythology, we meet both benevolent deities and dark demonic beings. Gods such as Perun - the god of thunder and war, Veles - the god of cattle, trade and the underworld, and Svarog - the god of fire and crafts, are central figures in Slavic mythology. However, there are also sinister demons, such as Zmey Gorynych - a multi-headed dragon, Lubyan - a forest spirit, or Baba Yaga - an evil witch living in her hut on a chicken's foot.
+In Slavic mythology, we meet both benevolent deities and dark demonic beings. Gods such as Perun - the god of thunder and war, Veles - the god of cattle, trade and the underworld, and Svarog - the god of fire and crafts, are central figures in Slavic mythology. However, there are also sinister demons, such as Zmey Gorynych - a multi-headed dragon, Lubyan - a forest spirit, or Baba Yaga - an evil witch living in her hut on a chickens foot.
 
 ## Slava! The Card Game
 
