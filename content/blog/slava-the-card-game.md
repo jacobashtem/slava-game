@@ -1,7 +1,21 @@
 ---
 title: Witajcie na naszym blogu!
 description: SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
-image: /img/blog/first-post.webp
+image:
+    src: /img/blog/first-post.webp
+    alt: Welcome post image.
+head:
+  meta:
+    - name: keywords
+      content: slavic card game, slavic mythology
+    - name: robots
+      content: index, follow
+    - name: author
+      content: Jacob Ashtem
+    - name: copyright
+      content: © 2024 Jacob Ashtem
+    - name: og:title
+      content: This is an OG title
 ---
 # Witajcie na naszym blogu!
 
