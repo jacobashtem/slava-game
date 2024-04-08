@@ -14,6 +14,7 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@zadigetvoltaire/nuxt-gtm",
     "@nuxtjs/i18n",
+    '@nuxthq/studio'
   ],
   i18n: {
     strategy: "prefix_except_default",
