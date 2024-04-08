@@ -1,6 +1,6 @@
 <template>
   <article
-    class="prose dark:prose-invert max-w-none prose-pre:bg-white dark:prose-pre:bg-gray-800 prose-pre:text-gray-700 dark:prose-pre:text-gray-300"
+    class="prose max-w-none prose-pre:bg-white dark:prose-pre:bg-gray-800 prose-pre:text-gray-700 dark:prose-pre:text-gray-300"
   >
     <ContentDoc>
       <template #not-found>
@@ -18,7 +18,7 @@
             <section
               class="flex items-end bg-cover bg-center min-h-[75vh] pb-9 w-100 relative mb-12"
             >
-            <img :src="doc.image" :alt="doc.image" class="my-0 z-0 h-full max-h-[75vh] w-full absolute top-0 brightness-50 object-cover">
+            <img :src="doc.image.src" :alt="doc.image.alt" class="my-0 z-0 h-full max-h-[75vh] w-full absolute top-0 brightness-50 object-cover object-top">
               <div class="flex container mx-auto z-10">
                 <div class="text-center">
                   <h2

@@ -11,5 +11,9 @@
         "subtitle": "Don't want to miss the premiere? Sign up for the waiting list!",
         "email_placeholder": "Enter your email",
         "button": "Sign up" 
+    },    
+    "blog": {
+        "title": "Latest posts",
+        "readMore": "Read more"
     }
 }
