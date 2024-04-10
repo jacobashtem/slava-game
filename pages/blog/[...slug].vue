@@ -20,14 +20,15 @@
             >
             <img :src="doc.image.src" :alt="doc.image.alt" class="my-0 z-0 h-full max-h-[75vh] w-full absolute top-0 brightness-50 object-cover object-top">
               <div class="flex container mx-auto z-10">
-                <div class="text-center">
-                  <h2
-                    class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"
+                <div class="text-center max-w-6xl mx-auto">
+                  <BreadcrumbsNav/>
+                  <h1
+                    class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna mb-4"
                   >
                     {{ doc.title }}
-                  </h2>
+                  </h1>
                   <h2
-                    class="text-xl md:text-2xl text-left font-thin text-white"
+                    class="text-xl md:text-2xl text-left font-thin text-white mt-0"
                   >
                     {{ doc.description }}
                   </h2>
@@ -53,9 +54,10 @@
 </template>
 
 <script setup>
+
 const activeId = ref(null);
 
-onMounted(() => {
+onMounted(async () => {
   let elements = [];
   const callback = (entries) => {
     for (const entry of entries) {
