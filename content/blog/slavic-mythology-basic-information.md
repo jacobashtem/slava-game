@@ -1,6 +1,7 @@
 ---
 title: Mitologia Słowiańska - podstawowe informacje
 description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata. Jest to zjawisko złożone, które ma unikalne cechy wyróżniające ją spośród innych wierzeń. W tym artykule przyjrzymy się bliżej temu, czym charakteryzuje się mitologia słowiańska, co ją wyróżnia i dlaczego tak mało wiadomo o niej w dzisiejszych czasach.
+author: Jacob Ash
 image:
     src: /img/blog/slavic-mythology-basic-information.webp
     alt: Welcome post image.
@@ -17,6 +18,10 @@ head:
     - name: og:title
       content: This is an OG title
 ---
+Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
+<!--more-->
+ Jest to zjawisko złożone, które ma unikalne cechy wyróżniające ją spośród innych wierzeń. W tym artykule przyjrzymy się bliżej temu, czym charakteryzuje się mitologia słowiańska, co ją wyróżnia i dlaczego tak mało wiadomo o niej w dzisiejszych czasach.
+
 ### Co to jest mitologia słowiańska?
 
 Mitologia słowiańska to zbiór wierzeń i mitów ludów słowiańskich, które zamieszkiwały obszary Europy Wschodniej, Środkowej i Południowej. Podobnie jak inne mitologie, opowiada o bogach, duchach i bohaterach, którzy odgrywają kluczowe role w naturalnym porządku świata oraz ludzkim życiu.

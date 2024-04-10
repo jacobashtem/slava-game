@@ -1,6 +1,7 @@
 ---
 title: Welcome to our blog!
 description: FAME! to all lovers of card games and fans of Slavic mythology!
+author: Jacob Ash
 image:
     src: /img/blog/first-post.webp
     alt: Welcome post image.
@@ -17,7 +18,8 @@ head:
     - name: og:title
       content: This is an OG title
 ---
-
+ FAME! to all lovers of card games and fans of Slavic mythology!
+<!--more-->
 # Welcome to our blog!
 
 Hello to all card game lovers and fans of Slavic mythology! Today we have amazing news for you that will probably warm your hearts and expand the horizons of your board game.

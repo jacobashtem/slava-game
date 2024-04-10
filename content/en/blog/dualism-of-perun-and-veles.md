@@ -1,6 +1,7 @@
 ---
 title: Harmony of Opposites in Slavic Mythology
 description: In Slavic mythology, one of the most fascinating aspects is the dualism between Perun and Veles. These two gods represent opposing forces and values, which, however, coexist harmoniously in the richness of the Slavic faith.
+author: Jacob Ash
 image:
     src: /img/blog/dualism.webp
     alt: Welcome post image.
@@ -17,7 +18,8 @@ head:
     - name: og:title
       content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
 ---
-
+In Slavic mythology, one of the most fascinating aspects is the dualism between Perun and Veles. These two gods represent opposing forces and values, which, however, coexist harmoniously in the richness of the Slavic faith.
+<!--more-->
 ## Perun - God of Heaven and Thunder
 
 Perun, also known as the "Lord of Thunder", is one of the most important gods in Slavic mythology. It is a symbol of strength, bravery and justice. His attributes are lightning, an ax and a shield. Perun was worshiped as the god of heaven who ruled the world from Mount Światowida, which was the central place of worship.

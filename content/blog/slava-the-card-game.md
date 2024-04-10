@@ -1,6 +1,7 @@
 ---
 title: Witajcie na naszym blogu!
 description: SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
+author: Jacob Ash
 image:
     src: /img/blog/first-post.webp
     alt: Welcome post image.
@@ -17,6 +18,8 @@ head:
     - name: og:title
       content: This is an OG title
 ---
+SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
+<!--more-->
 # Witajcie na naszym blogu!
 
 SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej! Dzisiaj mamy dla was niesamowitą nowinę, która zapewne rozgrzeje wasze serca i rozszerzy horyzonty waszej gry planszowej.

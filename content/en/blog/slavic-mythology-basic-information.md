@@ -1,6 +1,7 @@
 ---
 title: Slavic mythology - basic information
 description: Slavic mythology, although full of fascinating stories and gods, is often omitted in discussions about the mythologies of the world. It is a complex phenomenon that has unique features that distinguish it from other beliefs. In this article, we will take a closer look at what characterizes Slavic mythology, what distinguishes it and why so little is known about it today.
+author: Jacob Ash
 image:
     src: /img/blog/slavic-mythology-basic-information.webp
     alt: Slavic mythology basic information,axis mundi tree
@@ -17,6 +18,10 @@ head:
      - name: og:title
        content: Slavic mythology - basic information
 ---
+Slavic mythology, although full of fascinating stories and gods, is often omitted in discussions about the mythologies of the world.
+<!--more--> 
+It is a complex phenomenon that has unique features that distinguish it from other beliefs. In this article, we will take a closer look at what characterizes Slavic mythology, what distinguishes it and why so little is known about it today.
+
 ### What is Slavic mythology?
 
 Slavic mythology is a collection of beliefs and myths of the Slavic peoples who inhabited the areas of Eastern, Central and Southern Europe. Like other mythologies, it tells the story of gods, spirits and heroes who play key roles in the natural order of the world and human life.

@@ -1,6 +1,7 @@
 ---
 title: Harmonia Przeciwieństw w Mitologii Słowiańskiej
 description: W mitologii słowiańskiej, jeden z najbardziej fascynujących aspektów stanowi dualizm pomiędzy Perunem a Welesem. Ci dwaj bogowie reprezentują przeciwstawne siły i wartości, które jednak harmonijnie współistnieją w bogactwie słowiańskiej wiary.
+author: Jacob Ash
 image:
     src: /img/blog/dualism.webp
     alt: Welcome post image.
@@ -17,7 +18,9 @@ head:
     - name: og:title
       content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
 ---
-
+W mitologii słowiańskiej, jeden z najbardziej fascynujących aspektów stanowi dualizm pomiędzy Perunem a Welesem.
+<!--more-->
+Ci dwaj bogowie reprezentują przeciwstawne siły i wartości, które jednak harmonijnie współistnieją w bogactwie słowiańskiej wiary.
 ## Perun - Bóg Niebios i Piorunów
 
 Perun, znany również jako "Pan Gromu", jest jednym z najważniejszych bogów w mitologii słowiańskiej. Jest symbolem siły, męstwa i sprawiedliwości. Jego atrybutami są piorun, topór oraz tarcza. Perun był czczony jako bóg niebios, który rządził światem z góry Światowida, będącej centralnym miejscem kultu.
