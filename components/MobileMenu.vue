@@ -9,11 +9,15 @@
         ref="menuRef"
         class="lg:hidden absolute top-0 right-0 z-10 w-24 text-white w-full h-screen px-8 bg-slate-800"
       >
-    <button class="absolute right-8 top-8 right-0" @click="toggleMenu">
-       <Icon width="60" icon="ci:close-md" />
-    </button>
-      <p class="text-6xl xs:text-8xl font-bold bulgariamoderna flex flex-col py-8">SLAVA!<span class="text-3xl">THE CARD GAME</span></p>
-        <ul class="text-2xl ">
+        <button class="absolute right-8 top-8 right-0" @click="toggleMenu">
+          <Icon width="60" icon="ci:close-md" />
+        </button>
+        <p
+          class="text-6xl xs:text-8xl font-bold bulgariamoderna flex flex-col py-8"
+        >
+          SLAVA!<span class="text-3xl">THE CARD GAME</span>
+        </p>
+        <ul class="text-2xl">
           <li class="py-2">
             <nuxt-link to="/" class="font-bold">
               {{ $t("menu._1") }}
