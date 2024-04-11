@@ -16,7 +16,7 @@
         />
         <button
           type="submit"
-          class="ml-2 bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-3xl focus:outline-none focus:ring-2 focus:customPrimary-500"
+          class="mx:ml-2 bg-customPrimary-500 hover:bg-customPrimary-600 text-white py-2 px-6 rounded-3xl focus:outline-none focus:ring-2 focus:customPrimary-500"
         >
           {{ $t("hero.button") }}
         </button>

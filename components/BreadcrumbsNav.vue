@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <ul class="text-white flex list-none pl-0">
+    <ul class="text-white flex list-none pl-0 text-xs xs:text-base mb-2">
       <li class="flex items-center pl-0">
         <NuxtLink
           class="text-white no-underline flex items-center hover:text-customPrimary-500"

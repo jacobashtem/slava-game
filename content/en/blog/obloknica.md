@@ -20,7 +20,7 @@ head:
 ---
 In Slavic mythology, there are many characters that reflect various aspects of nature and human experiences. One of them is Hymenoptera, the mysterious protector of the sky and clouds.
 <!--more-->
-# Obłocznica - Guardian of Heaven in Slavic Folklore
+## Obłocznica - Guardian of Heaven in Slavic Folklore
 
 ![Dymphysis](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Slavic_goddesses_Oblakine_i._e._ob%C5%82ok%C5%84e.jpg/240px-Slavic_goddesses_Oblakine_i._e._ob%C5 %82ok%C5%84e.jpg)
 

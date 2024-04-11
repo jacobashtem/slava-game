@@ -20,7 +20,7 @@ head:
 ---
  FAME! to all lovers of card games and fans of Slavic mythology!
 <!--more-->
-# Welcome to our blog!
+## Welcome to our blog!
 
 Hello to all card game lovers and fans of Slavic mythology! Today we have amazing news for you that will probably warm your hearts and expand the horizons of your board game.
 

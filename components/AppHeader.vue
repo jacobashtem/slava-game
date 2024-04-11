@@ -1,11 +1,10 @@
 <template>
   <header
-    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 px-8 z-10"
-    :class="{ 'bg-white': isScrolled }"
+    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 z-10"
+    :class="{ 'bg-slate-800 shadow-lg z-10': isScrolled }"
   >
     <div
-      :class="isScrolled ? 'text-black' : 'text-white'"
-      class="container mx-auto flex justify-between items-center"
+      class="xs:container xs:mx-auto flex justify-between items-center px-4 xs:px-8"
     >
       <nuxt-link to="/" class="font-bold">
         <h1

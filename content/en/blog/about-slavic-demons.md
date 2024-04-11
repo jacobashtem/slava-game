@@ -20,7 +20,6 @@ head:
 ---
 Slavic mythology is full of stories about demons that played various roles in the everyday and spiritual life of ancient Slavs.
 <!--more-->
-# Demons in Slavic mythology
 
 These mysterious creatures can be classified based on their functions, behaviors, and origins. Below we present basic information about demons in Slavic mythology, focusing on their division and characteristic features.
 

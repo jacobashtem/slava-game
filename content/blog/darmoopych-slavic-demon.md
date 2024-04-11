@@ -22,8 +22,6 @@ W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które
 <!--more-->
 Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności.
 
-# Darmoopych - Słowiański Demon Lenistwa
-
 W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia. Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności. W przekazach ludowych opisywany jest jako istota złośliwa, która kusi ludzi do lenistwa i prowadzenia bezproduktywnego życia.
 
 ## Legenda

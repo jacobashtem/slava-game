@@ -20,7 +20,7 @@ head:
 ---
 У слов'янській міфології багато персонажів, які відображають різні сторони природи і людські переживання. Одним із них є перетинчастокрилі, таємничі захисники неба й хмар.
 <!--more-->
-# Obłocznica - берегиня неба у слов'янському фольклорі
+## Obłocznica - берегиня неба у слов'янському фольклорі
 
 ![Dymphysis](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Slavic_goddesses_Oblakine_i._e._ob%C5%82ok%C5%84e.jpg/240px-Slavic_goddesses_Oblakine_i._e._ob%C5 %82ok%C5%84e.jpg)
 

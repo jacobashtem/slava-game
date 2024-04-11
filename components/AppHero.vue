@@ -1,9 +1,9 @@
 <template>
   <section
-    class="flex items-end bg-cover bg-center h-screen pb-9 px-8 sm:px-12 lg:px-12"
+    class="flex items-end bg-cover bg-center h-screen pb-9"
     :style="{ 'background-image': 'url(img/hero.webp)' }"
   >
-    <div class="flex container mx-auto">
+    <div class="flex xs:container xs:mx-auto px-4 xs:px-8">
       <div class="text-center">
         <h2
           class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"
