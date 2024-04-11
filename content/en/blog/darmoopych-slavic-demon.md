@@ -1,6 +1,7 @@
 ---
 title: Darmoopych - demon of laziness in Slavic Folklore
 description: In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction.
+author: Jacob Ash
 image:
      src: /img/blog/darmoopych.webp
      alt: Freeopych slavic demon.
@@ -17,7 +18,8 @@ head:
      - name: og:title
        content: Darmoopych - the demon of laziness in Slavic folklore
 ---
-# Darmoopych - Slavic Demon of Laziness
+In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction.
+<!--more-->
 
 In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction. In folk lore, it is described as a malicious creature that tempts people to be lazy and lead an unproductive life.
 

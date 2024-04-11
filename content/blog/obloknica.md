@@ -1,6 +1,7 @@
 ---
 title: Na skrzydłach chmur - obłocznica w słowiańskich wierzeniach
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
+author: Jacob Ash
 image:
     src: /img/blog/obloknica.webp
     alt: Obloknica picture.
@@ -17,10 +18,9 @@ head:
     - name: og:title
       content: Na skrzydłach chmur - obłocznica w słowiańskich wierzeniach
 ---
-
-# Obłocznica - Opiekunka Nieba w Słowiańskim Folklorze
-
-![Obłocznica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Slavic_goddesses_Oblakine_i._e._ob%C5%82ok%C5%84e.jpg/240px-Slavic_goddesses_Oblakine_i._e._ob%C5%82ok%C5%84e.jpg)
+ W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń.
+ <!--more-->
+Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 
 W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur, która przez wieki zajmowała ważne miejsce w wierzeniach ludów słowiańskich.
 

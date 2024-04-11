@@ -16,6 +16,16 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     '@nuxthq/studio'
   ],
+  router: {
+    options: {
+      scrollBehaviorType: 'smooth'
+    }
+  },
+  content: {
+    markdown: {
+      remarkPlugins: ['remark-reading-time']
+,    }
+  },
   i18n: {
     strategy: "prefix_except_default",
     locales: [
@@ -34,7 +44,6 @@ export default defineNuxtConfig({
     defaultLocale: "pl",
     langDir: "locales/",
   },
-
   plugins: ["~/plugins/iconify.ts"],
   tailwindcss: {
     config: {

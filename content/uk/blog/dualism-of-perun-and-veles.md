@@ -1,6 +1,7 @@
 ---
 title: Dualizm Peruna i Welesa - Harmonia Przeciwieństw w Mitologii Słowiańskiej
 description: SŁAVA! Wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej, odkryjcie fascynujący dualizm Peruna i Welesa, który rzuca nowe światło na słowiańskie rozumienie równowagi świata.
+author: Jacob Ash
 image:
     src: /img/blog/first-post.webp
     alt: Welcome post image.
@@ -17,3 +18,5 @@ head:
     - name: og:title
       content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
 ---
+test<!--more-->
+test2

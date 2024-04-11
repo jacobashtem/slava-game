@@ -1,6 +1,8 @@
 ---
 title: Czym są demony w mitologii słowiańskiej?
 description: Słowiańska mitologia jest pełna opowieści o demonach, które pełniły różnorodne role w życiu codziennym i duchowym dawnych Słowian.
+author: Jacob Ash
+toc: true
 image:
     src: /img/blog/about-slavic-demons.webp
     alt: Welcome post image.
@@ -17,9 +19,8 @@ head:
     - name: og:title
       content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
 ---
-
-# Demony w słowiańskiej mitologii
-
+Słowiańska mitologia jest pełna opowieści o demonach, które pełniły różnorodne role w życiu codziennym i duchowym dawnych Słowian.
+<!--more-->
 Te tajemnicze istoty można klasyfikować na podstawie ich funkcji, zachowań, a także pochodzenia. Poniżej przedstawiamy podstawowe informacje o demonach w słowiańskiej mitologii, skupiając się na ich podziale i charakterystycznych cechach.
 
 ## Typologia demonów

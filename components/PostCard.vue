@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden flex flex-col relative pb-20">
+  <div class="bg-white rounded-lg shadow-lg overflow-hidden flex flex-col relative pb-20 w-full">
     <NuxtLink :to="post._path">
     <!-- Miniaturka obrazka -->
     <img :src="post.image.src" alt="Post Image" class="w-full h-80 object-cover object-center">
