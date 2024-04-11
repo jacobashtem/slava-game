@@ -14,17 +14,21 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@zadigetvoltaire/nuxt-gtm",
     "@nuxtjs/i18n",
-    '@nuxthq/studio'
+    "@nuxthq/studio",
+    "nuxt-disqus",
   ],
+  disqus: {
+    shortname: "slava-games",
+  },
   router: {
     options: {
-      scrollBehaviorType: 'smooth'
-    }
+      scrollBehaviorType: "smooth",
+    },
   },
   content: {
     markdown: {
-      remarkPlugins: ['remark-reading-time']
-,    }
+      remarkPlugins: ["remark-reading-time"],
+    },
   },
   i18n: {
     strategy: "prefix_except_default",
@@ -47,9 +51,9 @@ export default defineNuxtConfig({
   plugins: ["~/plugins/iconify.ts"],
   tailwindcss: {
     config: {
-        plugins: [ require('@tailwindcss/typography'),],
-    }
-},
+      plugins: [require("@tailwindcss/typography")],
+    },
+  },
   gtm: {
     id: "GTM-TSW84BGD",
     defer: false, // Script can be set to `defer` to speed up page load at the cost of less accurate results (in case visitor leaves before script is loaded, which is unlikely but possible). Defaults to false, so the script is loaded `async` by default

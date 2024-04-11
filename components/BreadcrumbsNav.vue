@@ -27,5 +27,5 @@
 
 <script setup>
 const route = useRoute();
-const routeSlug = (route.params.slug?.[0] || '').replace(/-/g, ' ');
+const routeSlug = (route.params.slug?.[0] || "").replace(/-/g, " ");
 </script>
