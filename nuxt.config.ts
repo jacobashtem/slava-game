@@ -14,8 +14,12 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@zadigetvoltaire/nuxt-gtm",
     "@nuxtjs/i18n",
-    '@nuxthq/studio'
+    '@nuxthq/studio',
+    "nuxt-disqus"
   ],
+  disqus: {
+    shortname: "slava-games"
+  },
   router: {
     options: {
       scrollBehaviorType: 'smooth'

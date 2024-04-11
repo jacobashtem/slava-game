@@ -42,7 +42,7 @@
                 </div>
               </div>
             </section>
-            <section class="px-4 xs:px-8 container md:mx-auto">
+            <section class="px-4 md:px-8 md:container md:mx-auto">
               <div class="prose-a:font-normal prose prose-xl desktop-xl:prose-2xl prose lg:prose-xl prose-h3:text-2xlcontainer max-w-6xl mx-auto prose-a:no-underline">
                 <TableOfContent :links="doc.body.toc.links"/>
               </div>
@@ -55,38 +55,13 @@
           </div>
       </template>
     </ContentDoc>
+    <section class="container mx-auto px-4 xs:px-8 pb-8">
+      <DisqusComments :identifier="currentPath" />
+    </section>
   </div>
 </template>
 
 <script setup>
-const activeId = ref(null);
-onMounted(async () => {
-  let elements = [];
-  const callback = (entries) => {
-    for (const entry of entries) {
-      if (entry.isIntersecting) {
-        activeId.value = entry.target.id;
-        break;
-      }
-    }
-  };
-  const observer = new IntersectionObserver(callback, {
-    root: null,
-    threshold: 0.5,
-  });
-
-  setTimeout(() => {
-    elements = document.querySelectorAll("h2, h3");
-
-    for (const element of elements) {
-      observer.observe(element);
-    }
-  }, 150);
-
-  onBeforeUnmount(() => {
-    for (const element of elements) {
-      observer.unobserve(element);
-    }
-  });
-});
+const route = useRoute();
+const currentPath = ref(route.FullPath)
 </script>

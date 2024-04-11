@@ -6,7 +6,6 @@
 </template>
 
 <script setup>
-const route = useRoute()
 defineProps({
   links: Array,
   level: {
