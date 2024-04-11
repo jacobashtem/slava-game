@@ -16,6 +16,11 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     '@nuxthq/studio'
   ],
+  router: {
+    options: {
+      scrollBehaviorType: 'smooth'
+    }
+  },
   content: {
     markdown: {
       remarkPlugins: ['remark-reading-time']

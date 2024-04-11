@@ -34,7 +34,7 @@
                     class="text-xl md:text-2xl text-left font-thin text-white mt-0"
                   >
                   
-                    <ContentRenderer :value="doc" excerpt="true" />
+                    <ContentRenderer :value="doc" :excerpt="true" />
                   </h2>
                   <ReadingTime
                     :readingTimeInMinutes="doc.readingTime.minutes"
@@ -42,7 +42,7 @@
                 </div>
               </div>
             </section>
-            <aside class="prose-a:font-normal prose prose-xl desktop-xl:prose-2xl prose lg:prose-xl prose-h3:text-2xlcontainer max-w-6xl mx-auto prose-a:no-underline prose-ul:list-none ">
+            <aside class="prose-a:font-normal prose prose-xl desktop-xl:prose-2xl prose lg:prose-xl prose-h3:text-2xlcontainer max-w-6xl mx-auto prose-a:no-underline">
                <TableOfContent :links="doc.body.toc.links"/>
             </aside>
             <article

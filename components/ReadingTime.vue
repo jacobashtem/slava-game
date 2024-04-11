@@ -5,7 +5,7 @@
 
 <script setup>
 const props = defineProps({
-    readingTimeInMinutes: String
+    readingTimeInMinutes: Number
 })
 
 const readingTime = computed(() => {

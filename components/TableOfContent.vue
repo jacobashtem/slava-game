@@ -1,14 +1,8 @@
 <template>
-<div>
-  <h4 class="text-2xl">Table of Content:</h4>
-  <ul class="border-l-2 border-customPrimary-200">
-    <li v-for="link in links" :key="link.id">
-      <NuxtLink :to="{ path: route.path, hash: `#${link.id}` }" class="flex items-center hover:text-customPrimary-500" :class="{ 'ml-4': level }">
-        <Icon class="mr-2" icon="uil:link"></Icon>  {{ link.text }}
-      </NuxtLink>
-    </li>
-  </ul>
-  </div>
+  <div>
+    <p class="not-prose  mb-8 text-3xl sm:text-5xl text-left lg:text-6xl  bulgariamoderna">Table of Content</p>
+    <TocLinks class="border-l-2 border-customPrimary-200 pl-12" :links="links" :level="level + 1" />
+    </div>
 </template>
 
 <script setup>
