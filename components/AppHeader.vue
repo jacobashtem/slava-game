@@ -4,7 +4,7 @@
     :class="{ 'bg-slate-800 shadow-lg z-10': isScrolled }"
   >
     <div
-      class="xs:container xs:mx-auto flex justify-between items-center px-4 xs:px-8"
+      class="md:container md:mx-auto flex justify-between items-center px-4 xs:px-8"
     >
       <nuxt-link to="/" class="font-bold">
         <h1

@@ -4,10 +4,12 @@
   >
     <NuxtLink :to="post._path">
       <!-- Miniaturka obrazka -->
-      <img
+      <NuxtImg
         :src="post.image.src"
-        alt="Post Image"
+        :alt="post.image.alt"
+        height="320"
         class="w-full h-80 object-cover object-center"
+        loading="lazy"
       />
 
       <!-- Opis posta -->
