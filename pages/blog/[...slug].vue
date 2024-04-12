@@ -10,7 +10,7 @@
       <template #default="{ doc }">
         <div>
           <section
-            class="flex items-end bg-cover bg-center min-h-[480px] 2xl:min-h-[35vw] pb-4 xs:pb-9 w-100 relative mb-12 z-0"
+            class="flex items-end bg-cover bg-center min-h-[480px] pb-4 xs:pb-9 w-100 relative mb-12 z-0"
           >
             <NuxtImg
               :src="doc.image.src"
@@ -18,7 +18,7 @@
               sizes="xs:100vw sm:100vw md:100vw lg:100vw xl:100vw xxl:100vw 2xl:100vw"
               class="my-0 z-0 h-full max-h-[90vh] w-full absolute top-0 brightness-50 object-cover object-top"
             />
-            <div class="flex container md:mx-auto z-10 px-4 xs:px-8">
+            <div class="flex md:container md:mx-auto z-10 px-4 xs:px-8">
               <div class="text-center max-w-6xl mx-auto">
                 <div class="flex justify-between items-center">
                   <BreadcrumbsNav />
@@ -34,13 +34,16 @@
                   {{ doc.title }}
                 </h1>
                 <h2
-                  class="text-base xs:text-xl md:text-2xl text-left font-thin text-white mt-0"
+                  class="text-base xs:text-xl md:text-2xl text-left font-thin text-white mt-0 mb-0"
                 >
-                  <ContentRenderer :value="doc" :excerpt="true" />
+                  {{doc.description}}
                 </h2>
-                <ReadingTime
-                  :reading-time-in-minutes="doc.readingTime.minutes"
-                />
+                <div class="flex justify-between text-white">
+                  <ReadingTime
+                    :reading-time-in-minutes="doc.readingTime.minutes"
+                  />
+                  <ArticleDate :date="doc.date"/>
+                </div>
               </div>
             </div>
           </section>

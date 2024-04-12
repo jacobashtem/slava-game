@@ -1,7 +1,7 @@
 <template>
   <header
-    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 z-10"
-    :class="{ 'bg-slate-800 shadow-lg z-10': isScrolled }"
+    class="text-white fixed py-2 top-0 left-0 w-full transition-colors duration-300 z-50"
+    :class="{ 'bg-slate-800 shadow-lg z-50': isScrolled }"
   >
     <div
       class="md:container md:mx-auto flex justify-between items-center px-4 xs:px-8"

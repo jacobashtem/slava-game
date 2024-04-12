@@ -23,7 +23,9 @@ const fetchPosts = async () => {
   try {
     posts.value = await queryContent(
       locale.value !== "pl" ? locale.value : "" + "/blog",
-    ).find();
+    )
+    .sort({ date: -1})
+    .find();
   } catch (error) {
     console.error(error);
   }
