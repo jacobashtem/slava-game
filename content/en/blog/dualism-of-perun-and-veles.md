@@ -2,6 +2,15 @@
 title: Harmony of Opposites in Slavic Mythology
 description: In Slavic mythology, one of the most fascinating aspects is the dualism between Perun and Veles. These two gods represent opposing forces and values, which, however, coexist harmoniously in the richness of the Slavic faith.
 author: Jacob Ash
+date: 2024-03-04 12.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/dualism.webp
     alt: Welcome post image.

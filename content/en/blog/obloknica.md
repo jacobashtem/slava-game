@@ -2,6 +2,15 @@
 title: On the wings of clouds - hymenium in Slavic beliefs
 description: In Slavic mythology, there are many characters that reflect various aspects of nature and human experiences. One of them is Hymenoptera, the mysterious protector of the sky and clouds.
 author: Jacob Ash
+date: 2024-04-04 12.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/obloknica.webp
     alt: Obloknica  picture.

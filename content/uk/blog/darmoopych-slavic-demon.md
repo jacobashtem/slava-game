@@ -2,6 +2,15 @@
 title: Дармоопич - демон ліні в слов'янському фольклорі
 description: У слов'янському фольклорі є багато оповідань про демонів і привидів, які представляють різні сторони людського життя. Однією з цих темних сутностей є Дармоопич, демон ліні та бездіяльності.
 author: Jacob Ash
+date: 2024-02-04 12.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/darmoopych.webp
     alt: darmoopych slavic demon image

@@ -2,6 +2,15 @@
 title: Що таке демони в слов'янській міфології?
 description: Слов'янська міфологія насичена історіями про демонів, які відігравали різноманітну роль у побуті та духовному житті давніх слов'ян.
 author: Jacob Ash
+date: 2024-01-04 12.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/about-slavic-demons.webp
     alt:  Що таке демони в слов'янській міфології?.

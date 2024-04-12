@@ -2,6 +2,15 @@
 title: Ласкаво просимо до нашого блогу!
 description: СЛАВА! всім любителям карткових ігор і шанувальникам слов'янської міфології!
 author: Jacob Ash
+date: 2024-01-04 10.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/first-post.webp
     alt: Зображення вітального допису.
