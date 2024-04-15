@@ -2,6 +2,15 @@
 title: Slavic mythology - basic information
 description: Slavic mythology, although full of fascinating stories and gods, is often omitted in discussions about the mythologies of the world. It is a complex phenomenon that has unique features that distinguish it from other beliefs. In this article, we will take a closer look at what characterizes Slavic mythology, what distinguishes it and why so little is known about it today.
 author: Jacob Ash
+date: 2024-01-04 09.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/slavic-mythology-basic-information.webp
     alt: Slavic mythology basic information,axis mundi tree

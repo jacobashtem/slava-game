@@ -1,7 +1,16 @@
 ---
 title: Mitologia Słowiańska - podstawowe informacje
-description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata. Jest to zjawisko złożone, które ma unikalne cechy wyróżniające ją spośród innych wierzeń. W tym artykule przyjrzymy się bliżej temu, czym charakteryzuje się mitologia słowiańska, co ją wyróżnia i dlaczego tak mało wiadomo o niej w dzisiejszych czasach.
+description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
 author: Jacob Ash
+date: 2024-01-04 09.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/slavic-mythology-basic-information.webp
     alt: Welcome post image.

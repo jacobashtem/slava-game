@@ -2,6 +2,15 @@
 title: Welcome to our blog!
 description: FAME! to all lovers of card games and fans of Slavic mythology!
 author: Jacob Ash
+date: 2024-01-04 10.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/first-post.webp
     alt: Welcome post image.

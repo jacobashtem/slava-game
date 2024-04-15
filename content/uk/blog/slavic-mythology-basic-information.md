@@ -2,6 +2,15 @@
 title: Гармонія протилежностей у слов'янській міфології
 description: У слов’янській міфології одним із найцікавіших аспектів є дуалізм між Перуном і Велесом. Ці два боги представляють протилежні сили і цінності, які, однак, гармонійно співіснують у багатстві слов'янської віри.
 author: Jacob Ash
+date: 2024-01-04 09.00
+tags:
+    - Card game
+    - Slavic demons
+    - Slavic mythology
+    - crowfunding
+    - Slava! brand
+    - socialmedia
+    - news
 image:
     src: /img/blog/dualism.webp
     alt: Welcome post image.

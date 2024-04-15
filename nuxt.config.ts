@@ -16,6 +16,7 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     "@nuxthq/studio",
     "nuxt-disqus",
+    "@nuxt/image"
   ],
   disqus: {
     shortname: "slava-games",

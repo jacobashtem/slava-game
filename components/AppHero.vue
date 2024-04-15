@@ -1,9 +1,15 @@
 <template>
   <section
-    class="flex items-end bg-cover bg-center h-screen pb-9"
-    :style="{ 'background-image': 'url(img/hero.webp)' }"
+    class="flex items-end bg-cover bg-center h-screen pb-9 relative"
+   
   >
-    <div class="flex xs:container xs:mx-auto px-4 xs:px-8">
+      <NuxtImg
+              class="absolute top-0 bg-cover object-cover z-0 w-full h-full"
+              src="img/hero.webp"
+              alt="doc.image.alt"
+              sizes="xs:100vw sm:100vw md:100vw lg:100vw xl:100vw xxl:100vw 2xl:100vw"
+              />
+    <div class="flex xs:container xs:mx-auto px-4 xs:px-8 z-10">
       <div class="text-center">
         <h2
           class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"
