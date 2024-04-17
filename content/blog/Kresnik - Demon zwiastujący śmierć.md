@@ -1,8 +1,9 @@
 ---
-title: Na skrzydłach chmur - obłocznica w słowiańskich wierzeniach
+title: Kresnik - Demon zwiastujący śmierć
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 author: Jacob Ash
 date: 2024-04-04 12.00
+category: Stworzenia
 tags:
     - Card game
     - Slavic demons
@@ -25,10 +26,9 @@ head:
     - name: copyright
       content: © 2024 Jacob Ashtem
     - name: og:title
-      content: Na skrzydłach chmur - obłocznica w słowiańskich wierzeniach
+      content: Kresnik - Demon zwiastujący śmierć
 ---
  W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń.
- <!--more-->
 Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 
 W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur, która przez wieki zajmowała ważne miejsce w wierzeniach ludów słowiańskich.
@@ -52,4 +52,5 @@ Chociaż kult Obłocznicy stopniowo zanikał wraz z upływem czasu, jej obecnoś
 ## Wnioski
 
 Legendy o Obłocznicach stanowią ważny element bogatego słowiańskiego folkloru, przekazując mądrość i wartości, które pozostają aktualne przez wieki. Ich opowieści nie tylko bawią i fascynują, ale także przypominają o związku człowieka z przyrodą oraz o konieczności szacunku wobec jej sił.
+
 

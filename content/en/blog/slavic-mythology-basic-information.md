@@ -1,8 +1,9 @@
 ---
-title: Slavic mythology - basic information
-description: Slavic mythology, although full of fascinating stories and gods, is often omitted in discussions about the mythologies of the world. It is a complex phenomenon that has unique features that distinguish it from other beliefs. In this article, we will take a closer look at what characterizes Slavic mythology, what distinguishes it and why so little is known about it today.
+title: Mitologia Słowiańska - podstawowe informacje
+description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
 author: Jacob Ash
 date: 2024-01-04 09.00
+category: Słowiańska mitologia
 tags:
     - Card game
     - Slavic demons
@@ -13,59 +14,59 @@ tags:
     - news
 image:
     src: /img/blog/slavic-mythology-basic-information.webp
-    alt: Slavic mythology basic information,axis mundi tree
+    alt: Welcome post image.
 head:
-   meta:
-     - name: keywords
-       content: Slavic mythology, basic information
-     - name: robots
-       content: index, follow
-     - name: author
-       content: Jacob Ashtem
-     - name: copyright
-       content: © 2024 Jacob Ashtem
-     - name: og:title
-       content: Slavic mythology - basic information
+  meta:
+    - name: keywords
+      content: mitologia slowianska, podstawowe informacje
+    - name: robots
+      content: index, follow
+    - name: author
+      content: Jacob Ashtem
+    - name: copyright
+      content: © 2024 Jacob Ashtem
+    - name: og:title
+      content: This is an OG title
 ---
-Slavic mythology, although full of fascinating stories and gods, is often omitted in discussions about the mythologies of the world.
-<!--more--> 
-It is a complex phenomenon that has unique features that distinguish it from other beliefs. In this article, we will take a closer look at what characterizes Slavic mythology, what distinguishes it and why so little is known about it today.
+Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
+<!--more-->
+ Jest to zjawisko złożone, które ma unikalne cechy wyróżniające ją spośród innych wierzeń. W tym artykule przyjrzymy się bliżej temu, czym charakteryzuje się mitologia słowiańska, co ją wyróżnia i dlaczego tak mało wiadomo o niej w dzisiejszych czasach.
 
-### What is Slavic mythology?
+### Co to jest mitologia słowiańska?
 
-Slavic mythology is a collection of beliefs and myths of the Slavic peoples who inhabited the areas of Eastern, Central and Southern Europe. Like other mythologies, it tells the story of gods, spirits and heroes who play key roles in the natural order of the world and human life.
+Mitologia słowiańska to zbiór wierzeń i mitów ludów słowiańskich, które zamieszkiwały obszary Europy Wschodniej, Środkowej i Południowej. Podobnie jak inne mitologie, opowiada o bogach, duchach i bohaterach, którzy odgrywają kluczowe role w naturalnym porządku świata oraz ludzkim życiu.
 
-### Unique features of Slavic mythology
+### Unikalne cechy mitologii słowiańskiej
 
-Slavic mythology is distinguished by its strong connection with nature. The gods and spirits that appear in it are closely related to forests, rivers, mountains and other elements of the natural environment. Deities such as Perun, the god of storm and war, or Mokosz, the goddess of the earth and fertility, reflect the deep connection of the Slavs with nature.
+Mitologia słowiańska wyróżnia się silnym związkiem z naturą. Bogowie i duchy, które w niej występują, są ściśle powiązane z lasami, rzekami, górami i innymi elementami środowiska naturalnego. Takie bóstwa jak Perun, bóg burzy i wojny, lub Mokosz, bogini ziemi i płodności, odzwierciedlają głębokie powiązanie Słowian z przyrodą.
 
-Also, the Slavic belief system is based on the idea of dualism and balance between good and evil, which can be seen in figures such as white and black deities that symbolize the positive and negative aspects of life. This harmony between opposites is crucial to understanding the Slavic perspective of the world.
+Również system wierzeń słowiańskich opiera się na idei dualizmu i równowagi między dobrem a złem, co można zobaczyć w postaciach takich jak białe i czarne bóstwa, które symbolizują pozytywne i negatywne aspekty życia. Ta harmonia między przeciwieństwami jest kluczowa dla zrozumienia słowiańskiej perspektywy świata.
 
-### Why is so little known about Slavic mythology?
+### Dlaczego tak mało wiadomo o mitologii słowiańskiej?
 
-One of the main reasons why Slavic mythology is less known than other mythologies is the lack of written sources. Many of these myths were passed down orally for centuries and only later began to be written down. Additionally, the expansion of Christianity into Slavic areas resulted in many of these beliefs being replaced or assimilated by the new religion, making it even more difficult to preserve the original myths.
+Jednym z głównych powodów, dla których mitologia słowiańska jest mniej znana niż inne mitologie, jest brak pisanych źródeł. Wiele z tych mitów było przekazywanych ustnie przez wieki i dopiero w późniejszym okresie zaczęto je zapisywać. Dodatkowo, ekspansja chrześcijaństwa na tereny słowiańskie spowodowała, że wiele z tych wierzeń zostało zastąpionych lub zasymilowanych przez nową religię, co jeszcze bardziej utrudniło zachowanie oryginalnych mitów.
 
-### What distinguishes Slavic mythology from others?
+### Co wyróżnia mitologię słowiańską od innych?
 
-One of the most characteristic features of Slavic mythology is its richness and diversity of local variants of myths and beliefs. Due to the wide geographic spread of the Slavic peoples, different regions developed their own unique histories and deities, which often had their own local names and attributes. This regional diversity accounts for the richness and complexity of the Slavic cultural heritage.
+Jedną z najbardziej charakterystycznych cech mitologii słowiańskiej jest jej bogactwo i różnorodność lokalnych wariantów mitów i wierzeń. Ze względu na szeroki rozrzut geograficzny ludów słowiańskich, różne regiony rozwinęły własne unikalne historie i bóstwa, które często miały swoje lokalne nazwy i atrybuty. Ta regionalna różnorodność stanowi o bogactwie i złożoności słowiańskiego dziedzictwa kulturowego.
 
-### Basic deities and myths
+### Podstawowe bóstwa i mity
 
-Among the pantheon of Slavic gods we find characters such as:
-- **Perun**: supreme god, ruler of storm, lightning and war.
-- **Mokosz**: goddess of the earth, fertility and the protective power of women.
-- **Swaróg**: god of sky, fire and blacksmithing, creator of the universe.
-- **Swarożyc**: son of Swarog, god of fire and sun.
-- **Świętowit**: god of war, fertility and abundance, often depicted with four faces looking in the four directions of the world.
-- **Jaryło**: god of spring, vegetation, fertility and growth.
-- **Rod**: considered the creator of the human race, the highest lineage deity.
-- **Weles**: god of the underworld, magic, trade and cattle.
-- **Dazbóg**: god of the sun and fire, giving life and warmth.
+Wśród panteonu bogów słowiańskich znajdujemy postacie takie jak:
+- **Perun**: najwyższy bóg, władca burzy, błyskawic i wojny.
+- **Mokosz**: bogini ziemi, płodności i opiekuńcza siła kobiet.
+- **Swaróg**: bóg nieba, ognia i kowalstwa, twórca wszechświata.
+- **Swarożyc**: syn Swaroga, bóg ognia i słońca.
+- **Świętowit**: bóg wojny, płodności oraz obfitości, często przedstawiany z czterema twarzami, patrzącymi w cztery strony świata.
+- **Jaryło**: bóg wiosny, wegetacji, płodności i wzrostu.
+- **Rod**: uważany za stwórcę rodzaju ludzkiego, najwyższe bóstwo rodowe.
+- **Weles**: bóg podziemia, magii, handlu i bydła.
+- **Dazbóg**: bóg słońca i ognia, dający życie i ciepło.
 
 
-In Slavic mythology, there are several versions of the myth about the creation of the world, including one about creation by diving. Sounds interesting and unique? In this version, in the beginning there were only the sky and the sea. God, riding in a boat, and the devil, emerging from the sea foam, decided to create the earth. The devil dived in, pulling out a handful of sand from the bottom, which, after being thrown into the water by God, became the beginning of the earth. Other versions of the myth also tell of cooperation and conflict between divine and devilish figures, emphasizing the dualistic nature of the Slavic cosmogony​
+W mitologii słowiańskiej istnieje kilka wersji mitu o stworzeniu świata, w tym jedna opowiadająca o stworzeniu przez nurkowanie. Brzmi ciekawie i wyjątkowo? W tej wersji, na początku istniało tylko niebo i morze. Bóg, płynąc łodzią, oraz diabeł, wyłaniający się z piany morskiej, postanowili stworzyć ziemię. Diabeł zanurkował, wydobywając z dna garść piasku, która po wrzuceniu na wodę przez Boga stała się zaczątkiem ziemi. Inne wersje mitu również opowiadają o współpracy i konflikcie między Boskimi i diabelskimi postaciami, podkreślając dualistyczny charakter słowiańskiej kosmogonii​
 
-In future articles we intend to take a closer look at individual gods, myths and legends to better understand their meaning and influence on Slavic culture.
+W przyszłych artykułach zamierzamy dokładniej przyjrzeć się poszczególnym bogom, mitom i legendom, aby lepiej zrozumieć ich znaczenie i wpływ na kulturę słowiańską.
 
-### Summary
-Slavic mythology is a treasure trove of stories that reflect the beliefs and values of the Slavic peoples. With its rich pantheon and deep connection with nature, it is a fascinating cultural heritage. Although often overlooked in comparison to other mythological traditions, it offers a unique insight into the beliefs and values of the peoples who shaped the history and culture of Eastern, Central and Southern Europe. We invite you to continue exploring this unique tradition in our future posts.
+### Podsumowanie
+Mitologia słowiańska jest skarbnicą opowieści, które odzwierciedlają wierzenia i wartości ludów słowiańskich. Z jej bogatym panteonem i głębokim związkiem z naturą, jest fascynującym dziedzictwem kulturowym. Choć często pomijana w porównaniu do innych tradycji mitologicznych, oferuje unikalny wgląd w przekonania i wartości ludów, które kształtowały historię i kulturę Europy Wschodniej, Środkowej i Południowej. Zapraszamy do dalszego odkrywania tej niezwykłej tradycji w naszych przyszłych wpisach.

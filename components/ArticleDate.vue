@@ -1,5 +1,5 @@
 <template>
-    <p class="flex items-center mt-0 mb-2">
+    <p class="flex items-center my-0 mt-2">
         <Icon icon="system-uicons:calendar-date" class="mr-3"/>
      {{formattedDate}}
     </p>
