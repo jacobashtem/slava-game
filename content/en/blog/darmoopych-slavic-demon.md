@@ -1,8 +1,9 @@
 ---
-title: Darmoopych - demon of laziness in Slavic Folklore
-description: In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction.
+title: Darmoopych -  demon lenistwa w Słowiańskim Folklorze
+description: W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia. Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności.
 author: Jacob Ash
 date: 2024-02-04 12.00
+category: Stworzenia
 tags:
     - Card game
     - Slavic demons
@@ -12,40 +13,42 @@ tags:
     - socialmedia
     - news
 image:
-     src: /img/blog/darmoopych.webp
-     alt: Freeopych slavic demon.
+    src: /img/blog/darmoopych.webp
+    alt: Welcome post image.
 head:
-   meta:
-     - name: keywords
-       content: Darmoopych, Slavic mythology
-     - name: robots
-       content: index, follow
-     - name: author
-       content: Jacob Ashtem
-     - name: copyright
-       content: © 2024 Jacob Ashtem
-     - name: og:title
-       content: Darmoopych - the demon of laziness in Slavic folklore
+  meta:
+    - name: keywords
+      content:  Darmoopych , słowwiańska mitologia
+    - name: robots
+      content: index, follow
+    - name: author
+      content: Jacob Ashtem
+    - name: copyright
+      content: © 2024 Jacob Ashtem
+    - name: og:title
+      content:  На крилах хмар - гіменій у слов'янських віруваннях
 ---
-In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction.
+W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia.
 <!--more-->
+Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności.
 
-In Slavic folklore, there are many stories about demons and apparitions that represent various aspects of human life. One of these dark entities is Darmoopych, the demon of laziness and inaction. In folk lore, it is described as a malicious creature that tempts people to be lazy and lead an unproductive life.
+W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia. Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności. W przekazach ludowych opisywany jest jako istota złośliwa, która kusi ludzi do lenistwa i prowadzenia bezproduktywnego życia.
 
-## Legend
+## Legenda
 
-The legend of Darmoopych circulated mainly among Slavic peoples, especially in the areas of today's Poland, Russia, Ukraine and Belarus. According to these accounts, Darmoopych was a human-looking creature with a dark, terrifying expression. Apparently he often appeared in places where people were wasting their time, not doing any work or duties.
+Legenda o Darmoopychu krążyła głównie wśród ludów słowiańskich, zwłaszcza na obszarach dzisiejszej Polski, Rosji, Ukrainy i Białorusi. Według tych przekazów, Darmoopych był istotą wyglądającą na człowieka, ale z mrocznym, przerażającym wyrazem twarzy. Podobno często pojawiał się w miejscach, gdzie ludzie marnowali swój czas, nie podejmując żadnej pracy czy obowiązków.
 
 ## Modus Operandi
 
-This demon had the ability to tempt people, even hypnotize them, into laziness and inaction. One look into his eyes was often enough to make a person lose all motivation to act. Freeopych not only tempted individuals into laziness, but also destroyed social and family bonds, leading people to isolation and loneliness.
+Demon ten miał zdolność kuszenia ludzi, wręcz hipnotyzowania ich, aby oddawali się lenistwu i bezczynności. Często wystarczało jedno spojrzenie w jego oczy, aby człowiek zatracił wszelką motywację do działania. Darmoopych nie tylko kusił jednostki do lenistwa, ale także niszczył więzi społeczne i rodzinne, prowadząc ludzi do izolacji i samotności.
 
-## Symbolism
+## Symbolika
 
-Darmoopych was a symbol not only of physical inactivity, but also of apathy and lack of life goals. In Slavic folklore, it was a warning against the effects of laziness and lack of ambition. He was also often interpreted as the personification of bad habits and addictions that lead to the destruction of the individual and society as a whole.
+Darmoopych był symbolem nie tylko fizycznej bezczynności, ale także apatii i braku celów życiowych. W folklorze słowiańskim był ostrzeżeniem przed skutkami lenistwa i braku ambicji. Był również często interpretowany jako personifikacja złych nawyków i uzależnień, które prowadzą do destrukcji jednostki i społeczeństwa jako całości.
 
-## Contemporary
+## Współczesność
 
-Although the legends of Darmoopych have survived centuries, their meaning remains relevant today. In the era of universal access to technology and entertainment, the danger of falling into laziness and unproductivity is still present. Stories about this Slavic demon can therefore serve as a reminder of the need to take an active approach to life and protect ourselves from the forces that seek to degrade us.
+Choć legendy o Darmoopychu przetrwały wieki, ich znaczenie pozostaje aktualne również w dzisiejszych czasach. W dobie powszechnego dostępu do technologii i rozrywek, niebezpieczeństwo popadania w lenistwo i bezproduktywność jest nadal obecne. Opowieści o tym słowiańskim demonie mogą więc służyć jako przypomnienie o konieczności aktywnego podejścia do życia i ochrony przed siłami, które dążą do naszej degradacji.
 
-The legend of Darmoopych is one of many examples of rich Slavic folklore that not only entertains and terrifies, but also conveys wise teachings and warnings that have remained relevant for centuries.
+Legenda o Darmoopychu jest jednym z wielu przykładów bogatego folkloru słowiańskiego, który nie tylko bawi i przeraża, ale także przekazuje mądre nauki i ostrzeżenia, które mają znaczenie przez wieki.
+

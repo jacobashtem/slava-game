@@ -3,6 +3,7 @@ title: Witajcie na naszym blogu!
 description: SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
 author: Jacob Ash
 date: 2024-01-04 10.00
+category: Slava! The card game
 tags:
     - Card game
     - Slavic demons

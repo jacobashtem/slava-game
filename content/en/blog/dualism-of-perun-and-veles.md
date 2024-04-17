@@ -1,8 +1,9 @@
 ---
-title: Harmony of Opposites in Slavic Mythology
-description: In Slavic mythology, one of the most fascinating aspects is the dualism between Perun and Veles. These two gods represent opposing forces and values, which, however, coexist harmoniously in the richness of the Slavic faith.
+title: Harmonia Przeciwieństw w Mitologii Słowiańskiej
+description: W mitologii słowiańskiej, jeden z najbardziej fascynujących aspektów stanowi dualizm pomiędzy Perunem a Welesem. Ci dwaj bogowie reprezentują przeciwstawne siły i wartości, które jednak harmonijnie współistnieją w bogactwie słowiańskiej wiary.
 author: Jacob Ash
 date: 2024-03-04 12.00
+category: Słowiańska mitologia
 tags:
     - Card game
     - Slavic demons
@@ -27,26 +28,27 @@ head:
     - name: og:title
       content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
 ---
-In Slavic mythology, one of the most fascinating aspects is the dualism between Perun and Veles. These two gods represent opposing forces and values, which, however, coexist harmoniously in the richness of the Slavic faith.
+W mitologii słowiańskiej, jeden z najbardziej fascynujących aspektów stanowi dualizm pomiędzy Perunem a Welesem.
 <!--more-->
-## Perun - God of Heaven and Thunder
+Ci dwaj bogowie reprezentują przeciwstawne siły i wartości, które jednak harmonijnie współistnieją w bogactwie słowiańskiej wiary.
+## Perun - Bóg Niebios i Piorunów
 
-Perun, also known as the "Lord of Thunder", is one of the most important gods in Slavic mythology. It is a symbol of strength, bravery and justice. His attributes are lightning, an ax and a shield. Perun was worshiped as the god of heaven who ruled the world from Mount Światowida, which was the central place of worship.
+Perun, znany również jako "Pan Gromu", jest jednym z najważniejszych bogów w mitologii słowiańskiej. Jest symbolem siły, męstwa i sprawiedliwości. Jego atrybutami są piorun, topór oraz tarcza. Perun był czczony jako bóg niebios, który rządził światem z góry Światowida, będącej centralnym miejscem kultu.
 
-Perun is a warrior figure, often shown fighting evil and demons that threaten the cosmic order. His actions symbolize the protection of people from the dangers of nature and the enemies of the community.
+Perun jest postacią wojowniczą, często ukazywaną walczącą ze złem i demonami, które zagrażają porządkowi kosmicznemu. Jego działania symbolizują ochronę ludzi przed niebezpieczeństwami związanymi z naturą oraz wrogami społeczności.
 
-## Weles - God of the Underground World and Animals
+## Weles - Bóg Świata Podziemnego i Zwierząt
 
-Veles, unlike Perun, is a god associated with the underworld, death and animals. His figure is often identified with the figure of a snake or a wolf. Weles is the protector of animals, shepherds and natural resources such as grain and cattle.
+Weles, w przeciwieństwie do Peruna, jest bogiem związanym z światem podziemnym, śmiercią i zwierzętami. Jego postać często jest utożsamiana z postacią węża lub wilka. Weles jest opiekunem zwierząt, pasterzy i bogactwa naturalnego, takiego jak zboże i bydło.
 
-As the god of the underworld, Weles plays the role of a guide of the souls of the dead and a guardian of goods hidden underground. He is also the patron saint of craftsmen and merchants, as he is credited with knowledge of secret treasures hidden in the earth.
+Jako bóg świata podziemnego, Weles odgrywa rolę przewodnika dusz zmarłych oraz stróża dóbr ukrytych pod ziemią. Jest również patronem rzemieślników i kupców, ponieważ przypisuje się mu wiedzę o tajemnych skarbach ukrytych w ziemi.
 
-## Harmony of Opposites
+## Harmonia Przeciwieństw
 
-The dualism of Perun and Veles symbolizes the fundamental oppositions present in the cosmic order of Slavic mythology. Perun represents strength, light and heaven, while Veles is associated with darkness, earth and the underworld. However, despite these opposites, both gods are extremely important to maintaining balance in the world.
+Dualizm Peruna i Welesa symbolizuje fundamentalne przeciwieństwa obecne w kosmicznym porządku mitologii słowiańskiej. Perun reprezentuje siłę, światło i niebo, podczas gdy Weles jest związany z ciemnością, ziemią i podziemiem. Jednakże, mimo tych przeciwieństw, obaj bogowie są niezwykle ważni dla zachowania równowagi w świecie.
 
-The harmony of opposites between Perun and Veles shows that neither of them can exist without the other. Perun needs Weles to maintain the balance between heaven and earth, light and darkness. Likewise, Weles needs Perun to ensure protection and order among the people.
+Harmonia przeciwieństw między Perunem a Welesem pokazuje, że żaden z nich nie może istnieć bez drugiego. Perun potrzebuje Welesa do zachowania równowagi między niebem a ziemią, światłem a ciemnością. Podobnie Weles potrzebuje Peruna, aby zapewnić ochronę i porządek wśród ludzi.
 
-## Conclusions
+## Wnioski
 
-The dualism of Perun and Veles is a key element of Slavic mythology, which illustrates the deep complexity and harmony of opposites in the Slavic religious system. Their stories and symbols continue to inspire and fascinate researchers and mythology lovers, emphasizing the cultural richness and spiritual heritage of the Slavs.
+Dualizm Peruna i Welesa stanowi kluczowy element mitologii słowiańskiej, który obrazuje głęboką złożoność i harmonię przeciwieństw w słowiańskim systemie religijnym. Ich opowieści i symbole nadal inspirują i fascynują badaczy oraz miłośników mitologii, podkreślając bogactwo kulturowe i duchowe dziedzictwo Słowian.

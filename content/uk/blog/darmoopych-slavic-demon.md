@@ -1,8 +1,9 @@
 ---
-title: Дармоопич - демон ліні в слов'янському фольклорі
-description: У слов'янському фольклорі є багато оповідань про демонів і привидів, які представляють різні сторони людського життя. Однією з цих темних сутностей є Дармоопич, демон ліні та бездіяльності.
+title: Darmoopych -  demon lenistwa w Słowiańskim Folklorze
+description: W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia. Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności.
 author: Jacob Ash
 date: 2024-02-04 12.00
+category: Stworzenia
 tags:
     - Card game
     - Slavic demons
@@ -13,11 +14,11 @@ tags:
     - news
 image:
     src: /img/blog/darmoopych.webp
-    alt: darmoopych slavic demon image
+    alt: Welcome post image.
 head:
   meta:
     - name: keywords
-      content:  Дармоопич, слов'янська міфологія
+      content:  Darmoopych , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author
@@ -25,30 +26,29 @@ head:
     - name: copyright
       content: © 2024 Jacob Ashtem
     - name: og:title
-      content:  Дармоопич - демон ліні в слов'янському фольклорі
+      content:  На крилах хмар - гіменій у слов'янських віруваннях
 ---
- У слов'янському фольклорі є багато оповідань про демонів і привидів, які представляють різні сторони людського життя. Однією з цих темних сутностей є Дармоопич, демон ліні та бездіяльності.
- <!--more-->
- 
-# #Darmoopych - Слов'янський Демон Ліні
+W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia.
+<!--more-->
+Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności.
 
-У слов'янському фольклорі є багато оповідань про демонів і привидів, які представляють різні сторони людського життя. Однією з цих темних сутностей є Дармоопич, демон ліні та бездіяльності. У народних переказах він описується як злісна істота, яка спокушає людей бути ледачими та вести неплідний спосіб життя.
+W folklorze słowiańskim istnieje wiele opowieści o demonach i zjawach, które reprezentują różne aspekty ludzkiego życia. Jednym z tych mrocznych bytów jest Darmoopych, demon lenistwa i bezczynności. W przekazach ludowych opisywany jest jako istota złośliwa, która kusi ludzi do lenistwa i prowadzenia bezproduktywnego życia.
 
-## Легенда
+## Legenda
 
-Легенда про Дармоопич поширювалася переважно серед слов'янських народів, особливо на теренах нинішньої Польщі, Росії, України та Білорусі. Згідно з цими розповідями, Дармоопич був людиноподібною істотою з темним, жахаючим виразом обличчя. Мабуть, він часто з'являвся в місцях, де люди витрачали час, не виконуючи жодної роботи чи обов'язків.
+Legenda o Darmoopychu krążyła głównie wśród ludów słowiańskich, zwłaszcza na obszarach dzisiejszej Polski, Rosji, Ukrainy i Białorusi. Według tych przekazów, Darmoopych był istotą wyglądającą na człowieka, ale z mrocznym, przerażającym wyrazem twarzy. Podobno często pojawiał się w miejscach, gdzie ludzie marnowali swój czas, nie podejmując żadnej pracy czy obowiązków.
 
-## Образ дії
+## Modus Operandi
 
-Цей демон мав здатність спокушати людей, навіть гіпнотизувати їх, до лінощів і бездіяльності. Часто було достатньо одного погляду в очі, щоб людина втратила будь-яку мотивацію діяти. Freeopych не тільки спокушав людей до ліні, але й руйнував соціальні та сімейні зв’язки, приводячи людей до ізоляції та самотності.
+Demon ten miał zdolność kuszenia ludzi, wręcz hipnotyzowania ich, aby oddawali się lenistwu i bezczynności. Często wystarczało jedno spojrzenie w jego oczy, aby człowiek zatracił wszelką motywację do działania. Darmoopych nie tylko kusił jednostki do lenistwa, ale także niszczył więzi społeczne i rodzinne, prowadząc ludzi do izolacji i samotności.
 
-## Символізм
+## Symbolika
 
-Darmoopych був символом не тільки гіподинамії, а й апатії та відсутності життєвих цілей. У слов'янському фольклорі це було застереженням від наслідків лінощів і відсутності честолюбства. Його також часто трактували як уособлення шкідливих звичок і залежностей, які призводять до руйнування особистості і суспільства в цілому.
+Darmoopych był symbolem nie tylko fizycznej bezczynności, ale także apatii i braku celów życiowych. W folklorze słowiańskim był ostrzeżeniem przed skutkami lenistwa i braku ambicji. Był również często interpretowany jako personifikacja złych nawyków i uzależnień, które prowadzą do destrukcji jednostki i społeczeństwa jako całości.
 
-## Сучасний
+## Współczesność
 
-Хоча легенди про Дармоопич пережили століття, їх зміст залишається актуальним і сьогодні. В епоху загального доступу до технологій і розваг все ще існує небезпека впасти в лінь і непродуктивність. Тому розповіді про цього слов’янського демона можуть служити нагадуванням про необхідність активного ставлення до життя та захисту від сил, які прагнуть нас принизити.
+Choć legendy o Darmoopychu przetrwały wieki, ich znaczenie pozostaje aktualne również w dzisiejszych czasach. W dobie powszechnego dostępu do technologii i rozrywek, niebezpieczeństwo popadania w lenistwo i bezproduktywność jest nadal obecne. Opowieści o tym słowiańskim demonie mogą więc służyć jako przypomnienie o konieczności aktywnego podejścia do życia i ochrony przed siłami, które dążą do naszej degradacji.
 
-Легенда про Дармоопич є одним із багатьох прикладів багатого слов'янського фольклору, який не тільки розважає і жахає, але й передає мудрі повчання та застереження, які залишаються актуальними протягом століть.
+Legenda o Darmoopychu jest jednym z wielu przykładów bogatego folkloru słowiańskiego, który nie tylko bawi i przeraża, ale także przekazuje mądre nauki i ostrzeżenia, które mają znaczenie przez wieki.
 

@@ -3,6 +3,7 @@ title: Harmonia Przeciwieństw w Mitologii Słowiańskiej
 description: W mitologii słowiańskiej, jeden z najbardziej fascynujących aspektów stanowi dualizm pomiędzy Perunem a Welesem. Ci dwaj bogowie reprezentują przeciwstawne siły i wartości, które jednak harmonijnie współistnieją w bogactwie słowiańskiej wiary.
 author: Jacob Ash
 date: 2024-03-04 12.00
+category: Słowiańska mitologia
 tags:
     - Card game
     - Slavic demons

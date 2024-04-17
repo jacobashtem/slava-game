@@ -1,8 +1,9 @@
 ---
-title: Гармонія протилежностей у слов'янській міфології
-description: У слов’янській міфології одним із найцікавіших аспектів є дуалізм між Перуном і Велесом. Ці два боги представляють протилежні сили і цінності, які, однак, гармонійно співіснують у багатстві слов'янської віри.
+title: Mitologia Słowiańska - podstawowe informacje
+description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
 author: Jacob Ash
 date: 2024-01-04 09.00
+category: Słowiańska mitologia
 tags:
     - Card game
     - Slavic demons
@@ -12,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/dualism.webp
+    src: /img/blog/slavic-mythology-basic-information.webp
     alt: Welcome post image.
 head:
   meta:
     - name: keywords
-      content: slavic card game, slavic mythology, Perun, Weles, slavic gods
+      content: mitologia slowianska, podstawowe informacje
     - name: robots
       content: index, follow
     - name: author
@@ -25,28 +26,47 @@ head:
     - name: copyright
       content: © 2024 Jacob Ashtem
     - name: og:title
-      content: Dualizm Peruna i Welesa w Mitologii Słowiańskiej
+      content: This is an OG title
 ---
-У слов’янській міфології одним із найцікавіших аспектів є дуалізм між Перуном і Велесом. Ці два боги представляють протилежні сили і цінності, які, однак, гармонійно співіснують у багатстві слов'янської віри.
+Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
 <!--more-->
-## Перун - Бог Неба і Грому
+ Jest to zjawisko złożone, które ma unikalne cechy wyróżniające ją spośród innych wierzeń. W tym artykule przyjrzymy się bliżej temu, czym charakteryzuje się mitologia słowiańska, co ją wyróżnia i dlaczego tak mało wiadomo o niej w dzisiejszych czasach.
 
-Перун, також відомий як «Володар грому», є одним із найважливіших богів слов'янської міфології. Це символ сили, хоробрості та справедливості. Його атрибутами є блискавка, сокира і щит. Перуна шанували як бога неба, який керував світом з гори Святовиди, яка була центральним місцем поклоніння.
+### Co to jest mitologia słowiańska?
 
-Перун — образ воїна, якого часто зображують у боротьбі зі злом і демонами, які загрожують космічному порядку. Його дії символізують захист людей від небезпек природи та ворогів громади.
+Mitologia słowiańska to zbiór wierzeń i mitów ludów słowiańskich, które zamieszkiwały obszary Europy Wschodniej, Środkowej i Południowej. Podobnie jak inne mitologie, opowiada o bogach, duchach i bohaterach, którzy odgrywają kluczowe role w naturalnym porządku świata oraz ludzkim życiu.
 
-## Велес - бог підземного світу і тварин
+### Unikalne cechy mitologii słowiańskiej
 
-Велес, на відміну від Перуна, є богом, пов'язаним з підземним світом, смертю і тваринами. Його фігуру часто ототожнюють з фігурою змії чи вовка. Уелес є захисником тварин, пастухів і природних ресурсів, таких як зерно і худоба.
+Mitologia słowiańska wyróżnia się silnym związkiem z naturą. Bogowie i duchy, które w niej występują, są ściśle powiązane z lasami, rzekami, górami i innymi elementami środowiska naturalnego. Takie bóstwa jak Perun, bóg burzy i wojny, lub Mokosz, bogini ziemi i płodności, odzwierciedlają głębokie powiązanie Słowian z przyrodą.
 
-Як бог підземного світу Велес виконує роль провідника душ померлих і охоронця прихованих під землею благ. Він також є покровителем ремісників і торговців, оскільки йому приписують знання таємних скарбів, захованих у землі.
+Również system wierzeń słowiańskich opiera się na idei dualizmu i równowagi między dobrem a złem, co można zobaczyć w postaciach takich jak białe i czarne bóstwa, które symbolizują pozytywne i negatywne aspekty życia. Ta harmonia między przeciwieństwami jest kluczowa dla zrozumienia słowiańskiej perspektywy świata.
 
-## Гармонія протилежностей
+### Dlaczego tak mało wiadomo o mitologii słowiańskiej?
 
-Дуалізм Перуна і Велеса символізує фундаментальні опозиції, присутні в космічному порядку слов'янської міфології. Перун уособлює силу, світло і небо, а Велес асоціюється з темрявою, землею та підземним світом. Однак, незважаючи на ці протилежності, обидва боги надзвичайно важливі для підтримки рівноваги у світі.
+Jednym z głównych powodów, dla których mitologia słowiańska jest mniej znana niż inne mitologie, jest brak pisanych źródeł. Wiele z tych mitów było przekazywanych ustnie przez wieki i dopiero w późniejszym okresie zaczęto je zapisywać. Dodatkowo, ekspansja chrześcijaństwa na tereny słowiańskie spowodowała, że wiele z tych wierzeń zostało zastąpionych lub zasymilowanych przez nową religię, co jeszcze bardziej utrudniło zachowanie oryginalnych mitów.
 
-Гармонія протилежностей між Перуном і Велесом показує, що жоден з них не може існувати без іншого. Велес потрібен Перуну, щоб зберегти рівновагу між небом і землею, світлом і темрявою. Так само Велесу потрібен Перун, щоб забезпечити захист і порядок серед людей.
+### Co wyróżnia mitologię słowiańską od innych?
 
-## Висновки
+Jedną z najbardziej charakterystycznych cech mitologii słowiańskiej jest jej bogactwo i różnorodność lokalnych wariantów mitów i wierzeń. Ze względu na szeroki rozrzut geograficzny ludów słowiańskich, różne regiony rozwinęły własne unikalne historie i bóstwa, które często miały swoje lokalne nazwy i atrybuty. Ta regionalna różnorodność stanowi o bogactwie i złożoności słowiańskiego dziedzictwa kulturowego.
 
-Дуалізм Перуна і Велеса є ключовим елементом слов'янської міфології, який ілюструє глибоку складність і гармонію протилежностей у слов'янській релігійній системі. Їхні історії та символи продовжують надихати та захоплювати дослідників та любителів міфології, підкреслюючи культурне багатство та духовну спадщину слов’ян.
+### Podstawowe bóstwa i mity
+
+Wśród panteonu bogów słowiańskich znajdujemy postacie takie jak:
+- **Perun**: najwyższy bóg, władca burzy, błyskawic i wojny.
+- **Mokosz**: bogini ziemi, płodności i opiekuńcza siła kobiet.
+- **Swaróg**: bóg nieba, ognia i kowalstwa, twórca wszechświata.
+- **Swarożyc**: syn Swaroga, bóg ognia i słońca.
+- **Świętowit**: bóg wojny, płodności oraz obfitości, często przedstawiany z czterema twarzami, patrzącymi w cztery strony świata.
+- **Jaryło**: bóg wiosny, wegetacji, płodności i wzrostu.
+- **Rod**: uważany za stwórcę rodzaju ludzkiego, najwyższe bóstwo rodowe.
+- **Weles**: bóg podziemia, magii, handlu i bydła.
+- **Dazbóg**: bóg słońca i ognia, dający życie i ciepło.
+
+
+W mitologii słowiańskiej istnieje kilka wersji mitu o stworzeniu świata, w tym jedna opowiadająca o stworzeniu przez nurkowanie. Brzmi ciekawie i wyjątkowo? W tej wersji, na początku istniało tylko niebo i morze. Bóg, płynąc łodzią, oraz diabeł, wyłaniający się z piany morskiej, postanowili stworzyć ziemię. Diabeł zanurkował, wydobywając z dna garść piasku, która po wrzuceniu na wodę przez Boga stała się zaczątkiem ziemi. Inne wersje mitu również opowiadają o współpracy i konflikcie między Boskimi i diabelskimi postaciami, podkreślając dualistyczny charakter słowiańskiej kosmogonii​
+
+W przyszłych artykułach zamierzamy dokładniej przyjrzeć się poszczególnym bogom, mitom i legendom, aby lepiej zrozumieć ich znaczenie i wpływ na kulturę słowiańską.
+
+### Podsumowanie
+Mitologia słowiańska jest skarbnicą opowieści, które odzwierciedlają wierzenia i wartości ludów słowiańskich. Z jej bogatym panteonem i głębokim związkiem z naturą, jest fascynującym dziedzictwem kulturowym. Choć często pomijana w porównaniu do innych tradycji mitologicznych, oferuje unikalny wgląd w przekonania i wartości ludów, które kształtowały historię i kulturę Europy Wschodniej, Środkowej i Południowej. Zapraszamy do dalszego odkrywania tej niezwykłej tradycji w naszych przyszłych wpisach.

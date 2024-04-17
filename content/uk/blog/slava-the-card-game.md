@@ -1,8 +1,9 @@
 ---
-title: Ласкаво просимо до нашого блогу!
-description: СЛАВА! всім любителям карткових ігор і шанувальникам слов'янської міфології!
+title: Witajcie na naszym blogu!
+description: SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
 author: Jacob Ash
 date: 2024-01-04 10.00
+category: Slava! The card game
 tags:
     - Card game
     - Slavic demons
@@ -13,7 +14,7 @@ tags:
     - news
 image:
     src: /img/blog/first-post.webp
-    alt: Зображення вітального допису.
+    alt: Welcome post image.
 head:
   meta:
     - name: keywords
@@ -27,26 +28,25 @@ head:
     - name: og:title
       content: This is an OG title
 ---
-СЛАВА! всім любителям карткових ігор і шанувальникам слов'янської міфології!
+SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
 <!--more-->
-## Ласкаво просимо до нашого блогу!
 
-Привіт усім любителям карткових ігор і шанувальникам слов'янської міфології! Сьогодні у нас для вас чудова новина, яка, напевно, зігріє ваші серця та розширить горизонти вашої настільної гри.
+SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej! Dzisiaj mamy dla was niesamowitą nowinę, która zapewne rozgrzeje wasze serca i rozszerzy horyzonty waszej gry planszowej.
 
-Незабаром ми вирушимо у подорож казковими країнами та поринемо у багатство слов'янської міфології за допомогою нової карткової гри - **Слава! Карткова гра**.
+Już niebawem wyruszymy w podróż przez baśniowe krainy i zanurzymy się w bogactwie mitologii słowiańskiej za pomocą nowej gry karcianej - **Slava! The Card Game**.
 
-## Міфологія слов'ян
+## Mitologia Słowian
 
-Слов'янська міфологія - це багате джерело легенд, міфів і переказів, які відображають вірування і перекази давніх слов'ян. У цьому захоплюючому космосі ми зустрічаємо богів, героїв, демонів та інших фантастичних істот, які століттями будили уяву та надихали творців.
+Mitologia słowiańska to bogate źródło legend, mitów i opowieści, które odzwierciedlają wierzenia i tradycje starożytnych Słowian. W tym fascynującym kosmosie spotykamy się z bogami, herosami, demonami i innymi fantastycznymi istotami, które od wieków budzą wyobraźnię i inspirują twórców.
 
-## Демони і боги
+## Demony i Bogowie
 
-У слов'янській міфології ми зустрічаємо як доброзичливих божеств, так і темних демонічних істот. Центральними фігурами слов'янської міфології є такі боги, як Перун - бог грому і війни, Велес - бог худоби, торгівлі і підземного світу, Сварог - бог вогню і ремесел. Але є й зловісні демони, наприклад, Змій Горинич – багатоголовий дракон, Луб’ян – лісовий дух або Баба Яга – зла відьма, що живе у своїй хатинці на курячій лапці.
+W mitologii słowiańskiej spotykamy zarówno dobroczynne bóstwa, jak i mroczne demoniczne istoty. Bogowie, tacy jak Perun - bóg piorunów i wojny, Veles - bóg bydła, handlu i podziemia, czy Svarog - bóg ognia i rzemiosła, stanowią centralne postacie w mitologii słowiańskiej. Jednakże, nie brakuje również złowrogich demonów, takich jak Zmey Gorynych - wielogłowy smok, Lubyan - duch lasu, czy Baba Yaga - zła czarownica mieszkająca w swojej chacie na kurzej łapie.
 
-## Слава! Карткова гра
+## Slava! The Card Game
 
-У **Slava!** гравці матимуть можливість досліджувати цей багатий світ, збираючи картки із зображеннями різних персонажів, істот, заклинань і артефактів зі слов’янської міфології. Кожна картка не тільки відображатиме образ заданого персонажа чи предмета, але й привнесе в гру унікальні навички та стратегії, що зробить гру повною сюрпризів та емоцій.
+W **Slava!** gracze będą mieli okazję zgłębić ten bogaty świat poprzez kolekcjonowanie kart przedstawiających różnorodne postaci, stworzenia, zaklęcia i artefakty z mitologii słowiańskiej. Każda karta będzie nie tylko odzwierciedlać wizerunek danej postaci lub przedmiotu, ale także wnosić do gry unikalne umiejętności i strategie, co sprawi, że rozgrywka będzie pełna niespodzianek i emocji.
 
-Тож чекайте на прем’єру **Слава! The Card Game** і готуйтеся до захоплюючої подорожі таємничим світом слов'янської міфології!
+Czekajcie więc z niecierpliwością na premierę **Slava! The Card Game** i przygotujcie się na fascynującą podróż przez tajemniczy świat mitologii słowiańskiej!
 
 

@@ -3,6 +3,7 @@ title: Mitologia Słowiańska - podstawowe informacje
 description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
 author: Jacob Ash
 date: 2024-01-04 09.00
+category: Słowiańska mitologia
 tags:
     - Card game
     - Slavic demons
