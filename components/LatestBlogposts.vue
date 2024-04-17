@@ -17,23 +17,7 @@
 
 <script setup>
 const { locale } = useI18n();
-
-const posts = ref([]);
-const fetchPosts = async () => {
-  try {
-    posts.value = await queryContent(
-      locale.value !== "pl" ? locale.value : "" + "/blog",
-    )
-    .sort({ date: -1})
-    .find();
-  } catch (error) {
-    console.error(error);
-  }
-};
-
-watch(locale, () => {
-  fetchPosts();
-});
+const { posts, fetchPosts } = useFetchPosts( locale);
 
 onMounted(() => {
   fetchPosts();

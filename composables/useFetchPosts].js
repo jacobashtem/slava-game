@@ -1,0 +1,23 @@
+export function useFetchPosts(locale) {
+    const posts = ref([]);
+
+    async function fetchPosts(skip = 0, limit = 0) {
+        try {
+            const query = await queryContent(
+                locale.value !== "pl" ? locale.value : "" + "/blog",
+            )
+            .sort({ date: -1})
+            .skip(skip || 0)
+            .limit(limit || 0);
+            
+            posts.value = await query.find();
+        } catch (error) {
+            console.error(error);
+        }
+    };
+
+    return {
+        posts,
+        fetchPosts
+    };
+}
