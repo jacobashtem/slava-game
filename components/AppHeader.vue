@@ -31,18 +31,10 @@
           </li>
           <li>
             <nuxt-link
-              to="/contact"
+              to="/blog"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._3") }}
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link
-              to="/contact"
-              class="font-bold hover:text-customPrimary-500"
-            >
-              {{ $t("menu._4") }} <span class="icon-[quill--hamburger]"></span>
             </nuxt-link>
           </li>
         </ul>
