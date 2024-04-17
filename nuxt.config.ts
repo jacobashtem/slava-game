@@ -16,7 +16,8 @@ export default defineNuxtConfig({
     "@nuxtjs/i18n",
     "@nuxthq/studio",
     "nuxt-disqus",
-    "@nuxt/image"
+    "@nuxt/image",
+    "nuxt-swiper"
   ],
   disqus: {
     shortname: "slava-games",
@@ -68,7 +69,6 @@ export default defineNuxtConfig({
     public: {
       gtm: {
         id: "GTM-TSW84BGD",
-        pageTracking: true,
         defer: false,
         compatibility: false,
         enabled: true,
