@@ -1,6 +1,6 @@
 ---
-title: Strzyga - Nocne stworzenie z długimi pazurami
-description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
+title: Стрига - Нічна істота з довгими кігтями
+description: У слов’янській міфології багато персонажів, які відображають різні сторони природи та людські переживання. Одним із них є перетинчастокрилі, таємничі захисники неба й хмар.
 author: Jacob Ash
 date: 2024-04-04 12.00
 category: Stworzenia

@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/gamayun.webp
+    alt: Gamayun picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Gamayun , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

@@ -1,5 +1,5 @@
 ---
-title: Alkonost - Ptak o pięknej śpiewie, zwiastun szczęścia
+title: Alkonost - zwiastun szczęścia
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 author: Jacob Ash
 date: 2024-04-04 12.00
@@ -13,8 +13,8 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/Alkonost.webp
+    alt: Alkonost picture.
 head:
   meta:
     - name: keywords

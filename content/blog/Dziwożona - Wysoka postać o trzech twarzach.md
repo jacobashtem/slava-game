@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/dziwozona.webp
+    alt: Dziwożona picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  dziwozona , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author
