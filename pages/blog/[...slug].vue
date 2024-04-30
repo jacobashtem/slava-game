@@ -22,11 +22,6 @@
               <div class="text-center max-w-6xl mx-auto">
                 <div class="flex justify-between items-center">
                   <BreadcrumbsNav />
-                  <div
-                    class="text-white italic absolute bottom-4 xs:bottom-auto xs:right-auto right-4 xs:relative"
-                  >
-                    {{ doc.author }}
-                  </div>
                 </div>
                 <h1
                   class="text-2xl xs:text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna mb-2 xs:mb-4"
@@ -34,7 +29,7 @@
                   {{ doc.title }}
                 </h1>
                 <h2
-                  class="text-base xs:text-xl md:text-2xl text-left font-thin text-white mt-0 mb-0"
+                  class="text-base xs:text-xl md:text-2xl text-left font-thin text-white mt-0 mb-4"
                 >
                   {{doc.description}}
                 </h2>
@@ -70,5 +65,5 @@
 
 <script setup>
 const route = useRoute();
-const currentPath = ref(route.FullPath);
+const currentPath = ref(route.fullPath);
 </script>

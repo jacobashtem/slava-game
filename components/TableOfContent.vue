@@ -8,17 +8,12 @@
     <TocLinks
       class="border-l-2 border-customPrimary-200 pl-12"
       :links="links"
-      :level="level + 1"
     />
   </div>
 </template>
 
 <script setup>
 defineProps({
-  links: { type: Array, required: true },
-  level: {
-    type: Number,
-    default: 0,
-  },
+  links: { type: Array,default: () => [], required: true },
 });
 </script>

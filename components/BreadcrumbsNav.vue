@@ -18,7 +18,7 @@
         >
         <Icon class="ml-3 w-4 mr-3 mt-1" icon="il:arrow-right" />
       </li>
-      <li class="capitalize pl-0 text-customPrimary-500 bold font-semibold">
+      <li class="capitalize w-[45vw] xxs:w-[50vw]  xs:w-[60vw] sm:w-auto text-left pl-0 text-customPrimary-500 bold font-semibold truncate">
         {{ routeSlug }}
       </li>
     </ul>
