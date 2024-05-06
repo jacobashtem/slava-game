@@ -6,7 +6,7 @@
     <div
       class="md:container md:mx-auto flex justify-between items-center px-4 xs:px-8"
     >
-      <nuxt-link :to="`/${formattedLocaleCode}`" class="font-bold">
+      <nuxt-link :to="generateURL('/')" class="font-bold">
         <h1
           class="flex flex-col text-center text-6xl font-bold bulgariamoderna"
         >
@@ -17,13 +17,13 @@
       <nav v-else class="relative flex items-center">
         <ul class="flex space-x-4 mr-4">
           <li>
-            <nuxt-link :to="`/${formattedLocaleCode}`" class="font-bold hover:text-customPrimary-500">
+            <nuxt-link :to="generateURL('/')" class="font-bold hover:text-customPrimary-500">
               {{ $t("menu._1") }}
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              :to="`/${formattedLocaleCode}/about`"
+              :to="generateURL('/about')"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._2") }}
@@ -31,7 +31,7 @@
           </li>
           <li>
             <nuxt-link
-              :to="`/${formattedLocaleCode}/blog`"
+              :to="generateURL('/blog')"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._3") }}
@@ -46,7 +46,7 @@
 
 <script setup>
 import { useMediaQuery } from "@vueuse/core";
-const { formattedLocaleCode } = useFormattedLocaleCode();
+const { formattedLocaleCode, generateURL } = useLocaleFormatting();
 const isMobile = useMediaQuery("(max-width: 640px)");
 const { y } = useWindowScroll();
 const isScrolled = computed(() => y.value > 0);

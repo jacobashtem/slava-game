@@ -19,13 +19,13 @@
         </p>
         <ul class="text-2xl mb-4">
           <li class="py-2">
-            <nuxt-link :to="`/${formattedLocaleCode}`" class="font-bold">
+            <nuxt-link :to="generateURL('/')" class="font-bold">
               {{ $t("menu._1") }}
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              :to="`/${formattedLocaleCode}/about`"
+              :to="generateURL('/about')"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._2") }}
@@ -33,7 +33,7 @@
           </li>
           <li>
             <nuxt-link
-              :to="`/${formattedLocaleCode}/blog`"
+              :to="generateURL('/blog')"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._3") }}
@@ -48,7 +48,7 @@
 
 <script setup>
 import { onClickOutside } from "@vueuse/core";
-const { formattedLocaleCode } = useFormattedLocaleCode();
+const { formattedLocaleCode, generateURL } = useLocaleFormatting();
 const menuRef = ref(null);
 onClickOutside(menuRef, () => {
   isMenuOpen.value = false;

@@ -1,5 +1,4 @@
 export function useFetchPosts(locale) {
-    const { formattedLocaleCode } = useFormattedLocaleCode();
     const posts = ref([]);
     const totalPages = ref(0);
     const postsPerPage = 12;
