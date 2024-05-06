@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
+    src: /img/blog/kikimora.webp
     alt: Obloknica picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Kikomora , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

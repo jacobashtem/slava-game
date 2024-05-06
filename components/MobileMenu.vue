@@ -7,9 +7,9 @@
       <div
         v-if="isMenuOpen"
         ref="menuRef"
-        class="lg:hidden absolute top-0 right-0 z-10 w-24 text-white w-full h-screen px-8 bg-slate-800"
+        class="lg:hidden absolute top-0 right-0 z-10  text-white w-full h-screen px-8 bg-slate-800"
       >
-        <button class="absolute right-8 top-8 right-0" @click="toggleMenu">
+        <button class="absolute top-8 right-0" @click="toggleMenu">
           <Icon width="60" icon="ci:close-md" />
         </button>
         <p
@@ -17,37 +17,30 @@
         >
           SLAVA!<span class="text-3xl">THE CARD GAME</span>
         </p>
-        <ul class="text-2xl">
+        <ul class="text-2xl mb-4">
           <li class="py-2">
-            <nuxt-link to="/" class="font-bold">
+            <nuxt-link :to="`/${formattedLocaleCode}`" class="font-bold">
               {{ $t("menu._1") }}
             </nuxt-link>
           </li>
-          <li class="py-2">
+          <li>
             <nuxt-link
-              to="/about"
+              :to="`/${formattedLocaleCode}/about`"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._2") }}
             </nuxt-link>
           </li>
-          <li class="py-2">
+          <li>
             <nuxt-link
-              to="/contact"
+              :to="`/${formattedLocaleCode}/blog`"
               class="font-bold hover:text-customPrimary-500"
             >
               {{ $t("menu._3") }}
             </nuxt-link>
           </li>
-          <li class="py-2">
-            <nuxt-link
-              to="/contact"
-              class="font-bold hover:text-customPrimary-500"
-            >
-              {{ $t("menu._4") }} <span class="icon-[quill--hamburger]"></span>
-            </nuxt-link>
-          </li>
         </ul>
+        <LanguageSwitcher :mobile="true" />
       </div>
     </transition>
   </div>
@@ -55,6 +48,7 @@
 
 <script setup>
 import { onClickOutside } from "@vueuse/core";
+const { formattedLocaleCode } = useFormattedLocaleCode();
 const menuRef = ref(null);
 onClickOutside(menuRef, () => {
   isMenuOpen.value = false;

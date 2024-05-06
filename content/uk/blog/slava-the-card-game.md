@@ -1,6 +1,6 @@
 ---
-title: Witajcie na naszym blogu!
-description: SŁAVA! wszystkim miłośnikom gier karcianych i fanom mitologii słowiańskiej!
+title: Ласкаво просимо до нашого блогу!
+description: СЛАВА! всім любителям карткових ігор і шанувальникам слов'янської міфології!
 author: Jacob Ash
 date: 2024-01-04 10.00
 category: Slava! The card game

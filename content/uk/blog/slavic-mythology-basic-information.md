@@ -1,7 +1,7 @@
 ---
-title: Mitologia Słowiańska - podstawowe informacje
-description: Mitologia słowiańska, choć pełna fascynujących opowieści i bogów, jest często pomijana w dyskusjach o mitologiach świata.
-author: Jacob Ash
+title: Слов'янська міфологія - основні відомості
+description: Слов’янська міфологія, хоч і повна захоплюючих історій і богів, часто ігнорується в дискусіях про міфології світу.
+автор: Джейкоб Еш
 date: 2024-01-04 09.00
 category: Słowiańska mitologia
 tags:

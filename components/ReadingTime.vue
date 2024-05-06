@@ -1,5 +1,5 @@
 <template>
-  <p class="text-white flex items-center mb-0 mt-0 pb-8 xs:pb-0">
+  <p class="text-white flex items-center mb-0 mt-0 pb-0">
     <Icon class="mr-2" icon="il:clock" /> {{ readingTime }} min
   </p>
 </template>

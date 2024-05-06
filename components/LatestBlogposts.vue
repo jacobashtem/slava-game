@@ -20,6 +20,6 @@ const { locale } = useI18n();
 const { posts, fetchPosts } = useFetchPosts( locale);
 
 onMounted(() => {
-  fetchPosts();
+  fetchPosts(0,3);
 });
 </script>

@@ -13,8 +13,8 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/chort.webp
+    alt: chort picture.
 head:
   meta:
     - name: keywords

@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/koschei.webp
+    alt: Koschei picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Koschei , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

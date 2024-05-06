@@ -1,17 +1,27 @@
 <template>
-  <div class="flex right-0">
-    <NuxtLink :to="switchLocalePath('pl')"
-      ><Icon class="mr-3" icon="emojione-v1:flag-for-poland"
-    /></NuxtLink>
-    <NuxtLink :to="switchLocalePath('en')"
-      ><Icon class="mr-3" icon="emojione-v1:flag-for-united-kingdom" />
-    </NuxtLink>
-    <NuxtLink :to="switchLocalePath('uk')"
-      ><Icon class="mr-3" icon="emojione-v1:flag-for-ukraine" />
+  <div :class="{ 'pt-8 mt-8 border-t': mobile }" class="flex right-0">
+    <NuxtLink
+      v-for="(locale, index) in locales"
+      :key="index"
+      :to="switchLocalePath(locale.code)"
+    >
+      <Icon
+        :class="{ 'text-5xl mr-8': mobile }"
+        class="mr-3"
+        :icon="locale.icon"
+      />
     </NuxtLink>
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const props = defineProps({
+  mobile: { type: Boolean, required: false },
+});
 
-<style></style>
+const locales = [
+  { code: 'pl', icon: 'emojione-v1:flag-for-poland' },
+  { code: 'en', icon: 'emojione-v1:flag-for-united-kingdom' },
+  { code: 'uk', icon: 'emojione-v1:flag-for-ukraine' },
+];
+</script>

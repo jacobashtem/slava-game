@@ -4,14 +4,12 @@
       <NuxtLink
         :to="{ path: route.path, hash: `#${link.id}` }"
         class="flex items-center hover:text-customPrimary-500"
-        :class="{ 'ml-4': level }"
       >
         {{ link.text }}
       </NuxtLink>
       <TocLinks
         class="list-[decimal]"
         :links="link.children"
-        :level="level + 1"
       />
     </li>
   </ul>
@@ -20,10 +18,6 @@
 <script setup>
 const route = useRoute();
 defineProps({
-  links: { type: Array, required: true },
-  level: {
-    type: Number,
-    default: 0,
-  },
+  links: { type: Array,default: () => [], required: true },
 });
 </script>

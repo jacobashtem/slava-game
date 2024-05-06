@@ -13,8 +13,8 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/bies.webp
+    alt: bies picture.
 head:
   meta:
     - name: keywords

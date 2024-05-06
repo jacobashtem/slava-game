@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/domovoy.webp
+    alt: domovoy picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  domovoy , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author
