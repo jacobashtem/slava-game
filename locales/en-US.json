@@ -12,9 +12,19 @@
         "email_placeholder": "Enter your email",
         "button": "Sign up" 
     },    
+    "home": {
+        "seoTitle": "Home - Slava! The Card Game",
+        "seoDescription": "Immerse yourself in the mysterious and fascinating Slavic mythology. In the card game 'Slava! The Card Game`, you will fight exciting strategic duels using 180 unique cards! Join the gaming community and start your adventure today!"
+    },
+    "aboutPage":{
+        "seoTitle": "About us - Slava! The Card Game",
+        "seoDescription": "Learn more about the team behind the Slava card game! The Card Game. Discover our vision and passion for Slavic mythology, which comes to life in this unique card game. We invite you to discover our history and mission that guide the creation of this unique adventure!"
+    },
     "blog": {
         "title": "Latest posts",
         "readMore": "Read more",
-        "other": "Other posts"
+        "other": "Other posts",
+        "seoTitle": "Blog - Slava! The Card Game",
+        "seoDescription": "Get the latest news, tips and strategies for the Slava card game! The Card Game. Visit our blog to discover the secrets of the game, learn about upcoming updates and participate in exciting events in the world of Slavic mythology!"
     }
 }

@@ -8,6 +8,13 @@
 </template>
 
 <script setup>
+useSeoMeta({
+  title: 'Blog | Slava! The Card Game',
+  ogTitle: 'Blog | Slava! The Card Game',
+  description: 'Zanurz się, w tajemniczej i fascynującej mitologii słowiańskiej. W grze karcianej `Slava! The Card Game`, stoczysz pasjonujące pojedynki strategiczne za pomocą 180 unikalnych kart! Dołącz do społeczności graczy i rozpocznij swoją przygodę już dziś!',
+  ogDescription: 'Zanurz się, w tajemniczej i fascynującej mitologii słowiańskiej. W grze karcianej `Slava! The Card Game`, stoczysz pasjonujące pojedynki strategiczne za pomocą 180 unikalnych kart! Dołącz do społeczności graczy i rozpocznij swoją przygodę już dziś!',
+})
+
 const { locale } = useI18n();
 const { posts, totalPages, fetchPosts, postsPerPage } = useFetchPosts(locale);
 const { pagesToShow } = usePagination(totalPages);
