@@ -11,9 +11,19 @@
         "email_placeholder": "Wpisz swój email",
         "button": "Zapisz się" 
     },
+    "home": {
+        "seoTitle": "Home - Slava! The Card Game",
+        "seoDescription": "Zanurz się, w tajemniczej i fascynującej mitologii słowiańskiej. W grze karcianej `Slava! The Card Game`, stoczysz pasjonujące pojedynki strategiczne za pomocą 180 unikalnych kart! Dołącz do społeczności graczy i rozpocznij swoją przygodę już dziś!"
+    },
+    "aboutPage":{
+        "seoTitle": "O nas - Slava! The Card Game",
+        "seoDescription": "Dowiedz się więcej o zespole tworzącym grę karcianą Slava! The Card Game. Poznaj naszą wizję i pasję do mitologii słowiańskiej, która ożywa w tej unikalnej grze karcianej. Zapraszamy do odkrycia naszej historii i misji, które przyświecają tworzeniu tej wyjątkowej przygody!"
+    },
     "blog": {
         "title": "Najnowsze wpisy",
         "readMore": "Czytaj więcej",
-        "other": "Pozostałe wpisy"
+        "other": "Pozostałe wpisy",
+        "seoTitle": "Blog - Slava! The Card Game",
+        "seoDescription": "Poznaj najświeższe wiadomości, porady i strategie związane z grą karcianą Slava! The Card Game. Odwiedź nasz blog, aby odkryć sekrety gry, dowiedzieć się o nadchodzących aktualizacjach i uczestniczyć w ekscytujących wydarzeniach w świecie słowiańskiej mitologii!"
     }
 }
