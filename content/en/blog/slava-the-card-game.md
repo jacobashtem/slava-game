@@ -45,7 +45,7 @@ W mitologii słowiańskiej spotykamy zarówno dobroczynne bóstwa, jak i mroczne
 
 ## Slava! The Card Game
 
-W **Slava!** gracze będą mieli okazję zgłębić ten bogaty świat poprzez kolekcjonowanie kart przedstawiających różnorodne postaci, stworzenia, zaklęcia i artefakty z mitologii słowiańskiej. Każda karta będzie nie tylko odzwierciedlać wizerunek danej postaci lub przedmiotu, ale także wnosić do gry unikalne umiejętności i strategie, co sprawi, że rozgrywka będzie pełna niespodzianek i emocji.
+W **Slava!** gracze będą mieli okazję zgłębić ten bogaty świat poprzez kolekcjonowanie kart przedstawiających różnorodne postaci, Creatures, zaklęcia i artefakty z mitologii słowiańskiej. Każda karta będzie nie tylko odzwierciedlać wizerunek danej postaci lub przedmiotu, ale także wnosić do gry unikalne umiejętności i strategie, co sprawi, że rozgrywka będzie pełna niespodzianek i emocji.
 
 Czekajcie więc z niecierpliwością na premierę **Slava! The Card Game** i przygotujcie się na fascynującą podróż przez tajemniczy świat mitologii słowiańskiej!
 

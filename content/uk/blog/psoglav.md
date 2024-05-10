@@ -3,7 +3,7 @@ title: Psoglav - Bestia z głową psa, polująca na ludzi
 description: У слов’янській міфології багато персонажів, які відображають різні сторони природи та людські переживання. Одним із них є перетинчастокрилі, таємничі захисники неба й хмар.
 author: Jacob Ash
 date: 2024-04-04 12.00
-category: Stworzenia
+category: Істоти
 tags:
     - Card game
     - Slavic demons

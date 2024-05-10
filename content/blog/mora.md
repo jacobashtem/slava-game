@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/mora.webp
+    alt: Mora picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Mora , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

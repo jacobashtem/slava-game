@@ -1,5 +1,5 @@
 ---
-title: Rusałka - Wodny duch, porywający ludzi do wód
+title: Kresnik - Demon zwiastujący śmierć
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 author: Jacob Ash
 date: 2024-04-04 12.00
@@ -13,7 +13,7 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
+    src: /img/blog/kresnik.webp
     alt: Obloknica picture.
 head:
   meta:
@@ -26,7 +26,7 @@ head:
     - name: copyright
       content: © 2024 Jacob Ashtem
     - name: og:title
-      content: Rusałka - Wodny duch, porywający ludzi do wód
+      content: Kresnik - Demon zwiastujący śmierć
 ---
  W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń.
 Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.

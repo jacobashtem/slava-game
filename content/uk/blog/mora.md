@@ -3,7 +3,7 @@ title: Mora - Demon senności i marzeń
 description: У слов’янській міфології багато персонажів, які відображають різні сторони природи та людські переживання. Одним із них є перетинчастокрилі, таємничі захисники неба й хмар.
 author: Jacob Ash
 date: 2024-04-04 12.00
-category: Stworzenia
+category: Істоти
 tags:
     - Card game
     - Slavic demons
@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/mora.webp
+    alt: Mora picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Mora , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

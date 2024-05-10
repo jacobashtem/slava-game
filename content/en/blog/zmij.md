@@ -3,7 +3,7 @@ title: Zmij - Wąż złośliwy i podstępny
 description: There are many characters in Slavic mythology that reflect various aspects of nature and human experiences. One of them is Hymenoptera, the mysterious protector of the sky and clouds.
 author: Jacob Ash
 date: 2024-04-04 12.00
-category: Stworzenia
+category: Creatures
 tags:
     - Card game
     - Slavic demons
