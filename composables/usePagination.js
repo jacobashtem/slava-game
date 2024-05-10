@@ -4,11 +4,21 @@ export function usePagination(totalPages) {
 
   const route = useRoute();
 
+  function updateCurrentPage() {
+    const page = parseInt(route.query.page);
+    if (!isNaN(page)) {
+      currentPage.value = page;
+    } else {
+      currentPage.value = 1;
+    }
+  }
+
   const pagesToShow = computed(() => {
     const startPage = Math.max(1, currentPage.value - delta);
     const endPage = Math.min(totalPages.value, currentPage.value + delta);
     const pages = [];
 
+    // Dodaj numery stron do tablicy
     for (let page = startPage; page <= endPage; page++) {
       pages.push(page);
     }
@@ -16,8 +26,10 @@ export function usePagination(totalPages) {
     return pages;
   });
 
+  updateCurrentPage();
 
   return {
+    currentPage,
     pagesToShow
   };
 }

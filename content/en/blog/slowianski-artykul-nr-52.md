@@ -3,7 +3,7 @@ title: Slavic Article 52
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 author: Jacob Ash
 date: 2024-02-21 12.00
-category: Stworzenia
+category: Creatures
 tags:
     - Card game
     - Slavic demons

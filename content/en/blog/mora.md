@@ -3,7 +3,7 @@ title: Mora - Demon senności i marzeń
 description: There are many characters in Slavic mythology that reflect various aspects of nature and human experiences. One of them is Hymenoptera, the mysterious protector of the sky and clouds.
 author: Jacob Ash
 date: 2024-04-04 12.00
-category: Stworzenia
+category: Creatures
 tags:
     - Card game
     - Slavic demons
@@ -13,12 +13,12 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/mora.webp
+    alt: Mora picture.
 head:
   meta:
     - name: keywords
-      content:  Obloknica , słowwiańska mitologia
+      content:  Mora , słowwiańska mitologia
     - name: robots
       content: index, follow
     - name: author

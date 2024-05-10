@@ -18,12 +18,12 @@
           SLAVA!<span class="text-3xl">THE CARD GAME</span>
         </p>
         <ul class="text-2xl mb-4">
-          <li class="py-2">
+          <li class="py-2" @click="toggleMenu">
             <nuxt-link :to="generateURL('/')" class="font-bold">
               {{ $t("menu._1") }}
             </nuxt-link>
           </li>
-          <li>
+          <li @click="toggleMenu">
             <nuxt-link
               :to="generateURL('/about')"
               class="font-bold hover:text-customPrimary-500"
@@ -31,7 +31,7 @@
               {{ $t("menu._2") }}
             </nuxt-link>
           </li>
-          <li>
+          <li @click="toggleMenu">
             <nuxt-link
               :to="generateURL('/blog')"
               class="font-bold hover:text-customPrimary-500"

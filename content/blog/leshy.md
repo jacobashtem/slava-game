@@ -1,5 +1,5 @@
 ---
-title: Kresnik - Demon zwiastujący śmierć
+title: Leshy - Duch lasu, opiekun zwierząt
 description: W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń. Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
 author: Jacob Ash
 date: 2024-04-04 12.00
@@ -13,8 +13,8 @@ tags:
     - socialmedia
     - news
 image:
-    src: /img/blog/obloknica.webp
-    alt: Obloknica picture.
+    src: /img/blog/leshy.webp
+    alt: Leshy picture.
 head:
   meta:
     - name: keywords
@@ -26,7 +26,7 @@ head:
     - name: copyright
       content: © 2024 Jacob Ashtem
     - name: og:title
-      content: Kresnik - Demon zwiastujący śmierć
+      content: Leshy - Duch lasu, opiekun zwierząt
 ---
  W mitologii słowiańskiej istnieje wiele postaci, które odzwierciedlają różnorodne aspekty przyrody oraz ludzkich doświadczeń.
 Jedną z nich jest Obłocznica, tajemnicza opiekunka nieba i chmur.
