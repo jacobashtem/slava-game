@@ -6,6 +6,10 @@
         "_4": "Bestiary"
 
     },
+    "404": {
+        "text": "The page you're looking for seems to have gone on a little adventure. Don't worry, we'll help you find your way back home.",
+        "button": "Go Back Home"
+    },
     "hero": {
         "title": "Immerse yourself in the world of Slavic mythology!",
         "subtitle": "Don't want to miss the premiere? Sign up for the waiting list!",
