@@ -5,6 +5,10 @@
         "_3": "Blog",
         "_4": "Bestiariusz"
     },
+    "404": {
+        "text": "Wygląda na to, że strona, której szukasz, przeżyła małą przygodę. Nie martw się, pomożemy Ci znaleźć drogę do domu.",
+        "button": "Wróć"
+    },
     "hero": {
         "title": "Zanurz się w świat mitologii słowian!",
         "subtitle": "Nie chcesz przegapić premiery? Zapisz się na listę oczekujących!",
@@ -25,5 +29,5 @@
         "other": "Pozostałe wpisy",
         "seoTitle": "Blog - Slava! The Card Game",
         "seoDescription": "Poznaj najświeższe wiadomości, porady i strategie związane z grą karcianą Slava! The Card Game. Odwiedź nasz blog, aby odkryć sekrety gry, dowiedzieć się o nadchodzących aktualizacjach i uczestniczyć w ekscytujących wydarzeniach w świecie słowiańskiej mitologii!"
-    }
+    },
 }
