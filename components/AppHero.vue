@@ -9,7 +9,7 @@
               alt="doc.image.alt"
               sizes="xs:100vw sm:100vw md:100vw lg:100vw xl:100vw xxl:100vw 2xl:100vw"
               />
-    <div class="flex xs:container xs:mx-auto px-4 xs:px-8 z-10">
+    <div class="flex xs:mx-auto xs:px-8 z-10  mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <h2
           class="text-3xl sm:text-5xl text-left lg:text-6xl text-white font- uppercase bulgariamoderna"

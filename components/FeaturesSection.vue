@@ -1,34 +1,4 @@
-<template>
-  <div>
-    <div class="bg-slate-800 py-40">
-      <div class="container mx-auto px-6 md:px-12">
-        <div class="flex flex-col md:flex-row items-center">
-          <div class="md:w-1/2 lg:w-2/3">
-            <h1
-              class="text-4xl md:text-6xl lg:text-7xl text-white font-bold mb-6 bulgariamoderna"
-            >
-              <br class="hidden md:block" />
-              <span class="text-customPrimary-500">Slava!</span> The Card Game
-            </h1>
-            <p
-              class="text-lg md:text-xl lg:text-2xl text-gray-400 mb-8 mr-2 pr-5"
-            >
-              Wyjątkowy Living Card Game (LCG) bitewniak, dla od 2 do 4 graczy.
-              Osadzony w tajemniczej i niezwykle ciekawej słowiańskiej
-              mitologii.
-            </p>
-          </div>
-          <div class="md:w-1/2 lg:w-2/3 mt-8 md:mt-0">
-            <img
-              src="/public/img/slava-promo-2.png"
-              alt="Hero Image"
-              class="rounded-lg shadow-lg"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-
+<template>  <div>
     <div class="relative overflow-hidden bg-slate-800 pt-16 pb-32 space-y-24">
       <div class="relative">
         <div
@@ -62,14 +32,6 @@
                   rozgrywkę, ale także przenieść Cię do świata pełnego magii i
                   legend.
                 </p>
-                <div class="mt-6">
-                  <a
-                    class="inline-flex rounded-lg bg-customPrimary-500 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 hover:bg-customPrimary-700"
-                    href="/login"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -121,14 +83,6 @@
                   szerzenia wiedzy o słowiańskim dziedzictwie i poczuj prawdziwą
                   moc legend!
                 </p>
-                <div class="mt-6">
-                  <a
-                    class="inline-flex rounded-lg bg-customPrimary-500 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 hover:bg-customPrimary-700"
-                    href="/login"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -176,14 +130,6 @@
                   summaries, or reports based on structured data or analysis
                   results.
                 </p>
-                <div class="mt-6">
-                  <a
-                    class="inline-flex rounded-lg bg-customPrimary-500 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 hover:bg-customPrimary-700"
-                    href="/login"
-                  >
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
           </div>
@@ -204,16 +150,4 @@
         </div>
       </div>
     </div>
-    <TestimonialsSection />
-  </div>
-</template>
-
-<script setup>
-const { t } = useI18n();
-useSeoMeta({
-  title: t("aboutPage.seoTitle"),
-  ogTitle: t("aboutPage.seoTitle"),
-  description: t("aboutPage.seoDescription"),
-  ogDescription: t("aboutPage.seoDescription"),
-});
-</script>
+  </div></template>

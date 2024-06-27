@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     "@nuxthq/studio",
     "nuxt-disqus",
     "@nuxt/image",
-    "nuxt-swiper"
+    "nuxt-swiper",
   ],
   disqus: {
     shortname: "slava-games",
