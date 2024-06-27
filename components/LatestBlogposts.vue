@@ -1,6 +1,6 @@
 <template>
   <section
-    class="flex xs:container max-w-none r xs:mx-auto mt-9 flex-col px-4 xs:px-8 w-full mb-9"
+    class="flex  xs:mx-auto mt-9 flex-col xs:px-8 w-full mb-9 relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8"
   >
     <h3
       class="text-3xl sm:text-5xl lg:text-6xl font-uppercase bulgariamoderna mb-8"

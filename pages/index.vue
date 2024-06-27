@@ -1,7 +1,12 @@
 <template>
   <article>
     <AppHero />
+    <AboutSection/>
+    <FeaturesSection />
     <LatestBlogposts />
+    <TestimonialsSection />
+    <FaqSection />
+    
   </article>
 </template>
 

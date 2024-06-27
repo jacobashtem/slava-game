@@ -57,13 +57,20 @@
         </div>
       </template>
     </ContentDoc>
-    <section class="container mx-auto px-4 xs:px-8 pb-8">
+    <!-- <PostCard v-for="post in randomPosts" :key="post._id" :post="post" /> -->
+    <section class="xs:container xs:mx-auto px-4 xs:px-8 pb-8">
       <DisqusComments :identifier="currentPath" />
     </section>
   </div>
 </template>
 
 <script setup>
+const { locale } = useI18n();
+// const { posts, fetchPosts } = fetchPosts(2, 'Stworzenia');
+// const { randomPosts, fetchRandomPosts, postsPerPage } = useFetchPosts(locale);
+onMounted(() => {
+    // fetchRandomPosts(doc._id);
+});
 const route = useRoute();
 const currentPath = ref(route.fullPath);
 </script>
